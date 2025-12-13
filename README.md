@@ -1,7 +1,6 @@
-<!-- PROFILE GIF -->
-<p align="center">
-  <img src="socialgif.gif" alt="Profile GIF" width="800" />
-</p>
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/main/socialgif.gif" width="400" height="400"/>
+</h1>
 <h1 align="center">
   <br>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tarun Kumar Agnihotri</h1>
 
