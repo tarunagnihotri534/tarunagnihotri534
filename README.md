@@ -1,6 +1,7 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/main/socialgif.gif" width="400" height="400"/>
-</h1>
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Tarun%20Kumar%20Agnihotri&fontSize=40&fontColor=ffffff" />
+</p>
 <h1 align="center">
   <br>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tarun Kumar Agnihotri</h1>
 
