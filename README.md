@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="social.gif" width="800" />
+</p>
 <!-- PROFILE BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Tarun%20Kumar%20Agnihotri&fontSize=40&fontColor=ffffff" />
