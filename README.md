@@ -1,12 +1,11 @@
-<!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Tarun%20Kumar%20Agnihotri&fontSize=40&fontColor=ffffff" />
-</p>
 <h1 align="center">
-  <br>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tarun Kumar Agnihotri</h1>
+    <img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/main/socialgif.gif" width="400" height="400"/>
+    <br>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tarun
+</h1>
+<h3 align="center">Frontend Developer | Gamer | Tech Enthusiast</h3>
 
 <p align="center">
-  🚀 Web Developer | 💻 Programmer | 🌱 Tech Learner
+    <img src="https://readme-typing-svg.herokuapp.com?color=49F7C7&center=true&lines=Machine+Learning+Enthusiast;Full+Stack+Developer;DSA+Explorer;Open+Source+Contributor">
 </p>
 
 <p align="center">
