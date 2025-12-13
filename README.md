@@ -2,7 +2,8 @@
 <p align="center">
   <img src="socialgif.gif" alt="Profile GIF" width="800" />
 </p>
-<h2 align="center">Hi 👋, I'm Tarun Kumar Agnihotri</h2>
+<h1 align="center">
+  <br>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,Hi 👋, I'm Tarun Kumar Agnihotri</h1>
 
 <p align="center">
   🚀 Web Developer | 💻 Programmer | 🌱 Tech Learner
