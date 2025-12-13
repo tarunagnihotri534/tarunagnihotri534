@@ -16,11 +16,11 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 Learning **React, Backend & DSA**
-- 🤝 Open to **collaborations & open-source**
-- 🎯 Goal: Become a **Skilled Software Engineer**
-- 📫 Email: **your-email@gmail.com**
+- 🔭 I’m currently working on **React Projects**
+- 🌱 Learning **Database Management, Backend & DSA**
+- 🤝 **Always open to learning new things**
+- 🎯 Goal: Become a **Skilled Full Stack Developer**
+- 📫 Reach me at: **tarunagnihotri534.com**
 
 ---
 
