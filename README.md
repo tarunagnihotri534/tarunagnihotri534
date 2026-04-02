@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/main/social gif.gif" width="400" height="400"/>
     <br>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tarun
 </h1>
-<h3 align="center">Frontend Developer | Gamer | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Gamer | Tech Enthusiast</h3>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=49F7C7&center=true&lines=Esports+Athlete+;Front+End+Developer;Tech+Explorer;Open+Source+Contributor">
@@ -17,9 +17,9 @@
 
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on **React Projects**
-- 🌱 Learning **Database Management, Backend & DSA**
+- 🌱 Learning **Database Management & DSA**
 - 🤝 **Always open to learning new things**
-- 🎯 Goal: Become a **Skilled Full Stack Developer**
+- 🎯 Goal: Become a **Skilled Developer**
 - 📫 Reach me at: **tarunagnihotri534.com**
 
 ---
