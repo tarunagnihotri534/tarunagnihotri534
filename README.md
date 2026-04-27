@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/main/social gif.gif" width="400" height="400"/>
+    <img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/main/social%20gif.gif" width="350" alt="Social GIF" style="border-radius: 10px;"/>
     <br>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tarun
 </h1>
 <h3 align="center">Full Stack Developer | Gamer | Tech Enthusiast</h3>
