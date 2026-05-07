@@ -117,7 +117,7 @@
 
 </td>
 </tr>
-
+<td width="50%" valign="top">
 ### ⛓️ Blockchain & Web3
 - **Smart Contracts**: Solidity, Hardhat, Foundry
 - **Libraries**: ethers.js, web3.js, viem
