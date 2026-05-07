@@ -1,171 +1,193 @@
-<img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/main/social%20gif.gif" width="350" align="right" alt="Social GIF" style="border-radius: 10px;"/>
+```md
+<div align="center">
+  <h1>Hi There, I'm Tarun 👋</h1>
+</div>
 
-# Hi There, I'm Tarun 👋
+<div align="center">
+  <img src="./social.gif" width="350" height="350"/>
+</div>
 
-### Engineering Focused Full Stack Developer
+<h3 align="center">Engineering Focused Full Stack Developer</h3>
 
-```bash
-tarunagnihotri534@github:~$ whoami
-name:       Tarun Kumar Agnihotri
-location:   Chandigarh, India
-web:        github.com/tarunagnihotri534
-role:       Technical Lead @ Dev Hive, CU
-hireable:   true
-
-tarunagnihotri534@github:~$ ls projects/
-● CivicLedger/   TypeScript + ICP Blockchain
-● JanMitra/      JavaScript + AI/NLP
-● IEEE Website/  JavaScript
-
-tarunagnihotri534@github:~$ cat languages.txt
-● JavaScript  ● TypeScript  ● Java  ● C
-● Python  ● HTML/CSS
-
-tarunagnihotri534@github:~$ git log --oneline --graph
-* a3f91c feat: on-chain governance engine (CivicLedger)
-* 7d82be feat: NLP scheme recommender (JanMitra)
-* 4c19e1 feat: QR campus navigation (JanMitra)
-* 2b10fa init: IEEE Club responsive website
-```
+<div align="center">
+  <img src="./terminal.svg" alt="Animated terminal summary" width="800" />
+</div>
 
 ---
 
-> **Engineering Focused Full Stack Web Developer** with **1+ year** of hands-on experience specializing in architecting and scaling **AI-integrated, production-ready web platforms** from early concept to real-world deployment.
-> Strong emphasis on **clean architecture, performance optimization, microservice-based backends, and cloud-native deployment** to deliver reliable, extensible, and high-impact software solutions.
+- <img align='left' src="./Port_Shocking.gif" width="25">I'm currently building 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js)
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![AI](https://img.shields.io/badge/-AI-FF6F00?style=plastic&logo=tensorflow)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=plastic)
+
+- <img align='left' src="./Port_EyeFlikiring.gif" width="25">I'm currently learning 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript)
+![Cloud](https://img.shields.io/badge/-AWS-FF9900?style=plastic&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker)
+![System Design](https://img.shields.io/badge/-System%20Design-4B0082?style=plastic)
+
+- <img align='left' src="./Port_AngerVolcano.gif" width="25">I work using 
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=plastic&logo=github-actions)
+
+- <img align='left' src="./Port_HandShake.gif" width="36">I'm looking to collaborate on 
+![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=plastic)
+![AI Projects](https://img.shields.io/badge/-AI%20Projects-FF6F00?style=plastic)
+![Web3](https://img.shields.io/badge/-Web3-000000?style=plastic)
+
+- <img align='left' src="./Port_ShowingAnger.gif" width="24">Ask me about 
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=plastic&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb)
+
+- <img align='left' src="./Port_Msg.gif" width="27">How to reach me
+[![Gmail Badge](https://img.shields.io/badge/-tarunagnihotri534-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:tarunagnihotri534@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-agnihotri69)
+
+- <img align='left' src="./Port_ShowingLove.gif" width="25">Projects are available at
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+- <img align='left' src="./Port_Laptop.gif" width="24">Know about my experiences
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://yourresume.com)
+
+- <img align='left' src="./Port_ThumbUp.gif" width="24"> Let's build impactful products together 🚀
 
 ---
 
-- 🔭 I'm currently working on ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![ICP](https://img.shields.io/badge/-ICP-29ABE2?style=flat&logo=dfinity&logoColor=white)
-- 🌱 I'm currently learning ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- 🛠 I work using ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-- 🤝 I'm looking for help in ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat&logo=openai&logoColor=white) ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat&logo=web3dotjs&logoColor=white) ![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?style=flat&logo=opensourceinitiative&logoColor=white)
-- 💬 Ask me about ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=ethereum&logoColor=white)
-- 📫 How to reach me ![Gmail](https://img.shields.io/badge/-tarunagnihotri534@gmail.com-c14438?style=flat&logo=gmail&logoColor=white) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-agnihotri69/)
-- 📁 Projects available at [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat&logo=googlechrome&logoColor=white)](#)
-- 🤝 Let's connect and collaborate on exciting projects!
+<div align="center">
+
+> **Engineering focused Full Stack Developer** with hands-on experience building scalable, AI integrated and production ready web applications.
+
+> Specialized in **modern frontend systems, backend architecture, AI powered platforms, cloud deployment, and performance optimized applications**.
+
+> Strong emphasis on **clean architecture, developer experience, scalability, responsive UI systems, and impactful real world software solutions.**
+
+</div>
 
 ---
 
-## 🎯 Core Competencies
+## 💼 Experience
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### 🌐 Full-Stack Development
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, HTML/CSS
-- **Backend**: Node.js, Express, FastAPI, REST APIs, WebSocket
-- **Mobile**: React Native, Expo
-- **Real-time**: WebSockets, GraphQL
-
-</td>
-    <td valign="top" width="50%">
-
-### 🤖 AI/ML & Integrations
-- **Frameworks**: Python, Machine Learning, Deep Learning basics
-- **LLM Stack**: NLP-driven features, AI-powered automation
-- **Payments**: Stripe, Razorpay
-- **Platforms**: HuggingFace, OpenAI API
-
-</td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-
-### ☁️ Cloud & DevOps
-- **Cloud**: AWS, GCP
-- **Containers**: Docker
-- **CI/CD**: GitHub Actions
-- **Monitoring**: Logs, uptime, performance dashboards
-
-</td>
-    <td valign="top" width="50%">
-
-### ⛓️ Blockchain & Web3
-- **Protocol**: Internet Computer Protocol (ICP)
-- **Smart Contracts**: On-chain governance, tamper-proof policy execution
-- **Tools**: Motoko, Candid, DFINITY SDK
-- **Networks**: ICP Mainnet, Testnet
-
-</td>
-  </tr>
-</table>
-
----
-
-## 💼 Work Experience
+<div align="center">
 
 | Role | Organization | Duration |
-|------|-------------|----------|
-| **Technical Lead** | Dev Hive, Chandigarh University | March 2025 – Present |
-| **Core Member & Secretary** | Dev Hive, Chandigarh University | Prior |
+|:---:|:---:|:---:|
+| **Technical Lead** | Dev Hive, Chandigarh University | Present |
+| **Full Stack Developer** | Open Source & Freelance Projects | 2024 – Present |
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏛️ CivicLedger — Decentralized Governance Platform
-Architected a platform that transforms government policies into executable smart contracts on the **Internet Computer Protocol (ICP)**, ensuring tamper-proof, automated policy execution. Implemented real-time transparency and citizen participation modules with on-chain tracking and community-driven governance decisions.
-
-### 🤝 JanMitra — AI-Powered Community Assistance Platform
-Built a smart web application helping citizens access government schemes, complaint management, resume analysis, and academic/event tracking in a unified portal. Integrated **real-time campus navigation via QR scanning** and NLP-driven scheme recommendations.
-
-### 🔌 IEEE Club Website
-Developed and maintained a responsive website for the IEEE student club — showcasing events, managing announcements, and providing club activity information with structured, accessible UI.
+| Project | Description | Tech |
+|---|---|---|
+| **CivicLedger** | ICP blockchain governance platform | TypeScript, ICP |
+| **JanMitra** | AI powered government scheme recommender | JavaScript, AI |
+| **Gaming Platform** | Animated esports gaming website | Next.js, React |
+| **IEEE Website** | Responsive club platform | JavaScript |
 
 ---
 
-## 🏆 Achievements
+## ⚡ Core Competencies
 
-- 🥈 **1st Runner-Up** — CU Flow J-JAM, Chandigarh University
-- 🥈 **1st Runner-Up** — Hack with Uttar Pradesh (Blockchain Track)
-- 🏅 **Finalist** — Innovate 2.0, JIIT Noida
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full Stack Development
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Modern Tech
+- AI Integrations
+- NLP Systems
+- Automation
+- Blockchain
+- Cloud Deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=python,java,c,fastapi,mongodb,mysql,postgres,redis" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,vscode,figma,linux" />
-</p>
-
----
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunagnihotri534&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunagnihotri534&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunagnihotri534&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarunagnihotri534&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunagnihotri534&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
+
+<div align="center">
+
+## 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunagnihotri534&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/tarunagnihotri534/tarunagnihotri534/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<h3 align="left">Languages and Tools <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tarun-agnihotri69/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/tarun_agniho3iii" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:tarunagnihotri534@gmail.com">
-    <img src="https://img.shields.io/badge/-tarunagnihotri534@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white" />
-  </a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+
 </p>
 
+---
+
+<h3 align="left">Connect with me 🤝</h3>
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tarunagnihotri534&label=Profile%20views&color=0e75b6&style=flat" alt="tarunagnihotri534" />
-  <img src="https://img.shields.io/github/followers/tarunagnihotri534?label=Followers&style=social" alt="followers">
+
+<a href="https://www.linkedin.com/in/tarun-agnihotri69/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="mailto:tarunagnihotri534@gmail.com">
+<img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/>
+</a>
+
 </p>
+```
