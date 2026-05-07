@@ -95,7 +95,6 @@
 ---
 
 ## ⚡ Core Competencies
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -117,7 +116,18 @@
 
 </td>
 </tr>
+<tr>
 <td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+- **Cloud**: AWS, GCP, Azure
+- **Orchestration**: Kubernetes, Docker, Terraform
+- **CI/CD**: GitHub Actions, ArgoCD, Helm
+- **Monitoring**: Prometheus, Grafana, New Relic
+
+</td>
+<td width="50%" valign="top">
+
 ### ⛓️ Blockchain & Web3
 - **Smart Contracts**: Solidity, Hardhat, Foundry
 - **Libraries**: ethers.js, web3.js, viem
@@ -127,7 +137,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 <div align="center">
