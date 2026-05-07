@@ -48,7 +48,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-agnihotri69)
 
 - <img align='left' src="./Port_ShowingLove.gif" width="25">Projects are available at
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://tarun-agnihotri-portfolio.vercel.app/)
 
 - <img align='left' src="./Port_Laptop.gif" width="24">Know about my experiences
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://yourresume.com)
