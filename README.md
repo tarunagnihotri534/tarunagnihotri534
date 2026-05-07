@@ -100,24 +100,29 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Full Stack Development
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-- Tailwind CSS
+### 🌐 Full-Stack Development
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Backend**: NestJS, Express, FastAPI, Django, Spring
+- **Mobile**: React Native, Flutter, Swift, Kotlin
+- **Real-time**: WebSockets, GraphQL, tRPC
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🤖 AI & Modern Tech
-- AI Integrations
-- NLP Systems
-- Automation
-- Blockchain
-- Cloud Deployment
+### 🤖 AI/ML & GenAI
+- **Frameworks**: PyTorch, TensorFlow, scikit-learn
+- **LLM Stack**: LangChain, LlamaIndex, Autogen
+- **MLOps**: MLflow, DVC, Weights & Biases
+- **Platforms**: Vertex AI, SageMaker, HuggingFace
+
+</td>
+</tr>
+
+### ⛓️ Blockchain & Web3
+- **Smart Contracts**: Solidity, Hardhat, Foundry
+- **Libraries**: ethers.js, web3.js, viem
+- **Networks**: Ethereum, Polygon, NEAR
+- **Tools**: IPFS, Chainlink, OpenZeppelin
 
 </td>
 </tr>
