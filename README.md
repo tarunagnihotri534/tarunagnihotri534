@@ -88,6 +88,7 @@
 |---|---|---|
 | **CivicLedger** | ICP blockchain governance platform | TypeScript, ICP |
 | **JanMitra** | AI powered government scheme recommender | JavaScript, AI |
+| **RoadSense** | Intelligent Road Condition Detection | Next.js, SupaBase, Tailwind |
 | **Gaming Platform** | Animated esports gaming website | Next.js, React |
 | **IEEE Website** | Responsive club platform | JavaScript |
 
