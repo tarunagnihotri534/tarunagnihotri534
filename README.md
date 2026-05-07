@@ -8,10 +8,6 @@
 
 <h3 align="center">Engineering Focused Full Stack Developer</h3>
 
-<div align="center">
-  <img src="./terminal.svg" alt="Animated terminal summary" width="800" />
-</div>
-
 ---
 
 - <img align='left' src="./Port_Shocking.gif" width="25">I'm currently building 
