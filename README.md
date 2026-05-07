@@ -1,4 +1,4 @@
-```md
+```html
 <div align="center">
   <h1>Hi There, I'm Tarun 👋</h1>
 </div>
@@ -190,4 +190,3 @@
 </a>
 
 </p>
-```
