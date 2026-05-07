@@ -20,6 +20,12 @@ tarunagnihotri534@github:~$ ls projects/
 tarunagnihotri534@github:~$ cat languages.txt
 ● JavaScript  ● TypeScript  ● Java  ● C
 ● Python  ● HTML/CSS
+
+tarunagnihotri534@github:~$ git log --oneline --graph
+* a3f91c feat: on-chain governance engine (CivicLedger)
+* 7d82be feat: NLP scheme recommender (JanMitra)
+* 4c19e1 feat: QR campus navigation (JanMitra)
+* 2b10fa init: IEEE Club responsive website
 ```
 
 ---
@@ -29,16 +35,22 @@ tarunagnihotri534@github:~$ cat languages.txt
 
 ---
 
-## 💼 Work Experience
-
-| Role | Organization | Duration |
-|------|-------------|----------|
-| **Technical Lead** | Dev Hive, Chandigarh University | March 2025 – Present |
-| **Core Member & Secretary** | Dev Hive, Chandigarh University | Prior |
+- 🔭 I'm currently working on ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![ICP](https://img.shields.io/badge/-ICP-29ABE2?style=flat&logo=dfinity&logoColor=white)
+- 🌱 I'm currently learning ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- 🛠 I work using ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- 🤝 I'm looking for help in ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat&logo=openai&logoColor=white) ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat&logo=web3dotjs&logoColor=white) ![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?style=flat&logo=opensourceinitiative&logoColor=white)
+- 💬 Ask me about ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=ethereum&logoColor=white)
+- 📫 How to reach me ![Gmail](https://img.shields.io/badge/-tarunagnihotri534@gmail.com-c14438?style=flat&logo=gmail&logoColor=white) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-agnihotri69/)
+- 📁 Projects available at [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat&logo=googlechrome&logoColor=white)](#)
+- 🤝 Let's connect and collaborate on exciting projects!
 
 ---
 
 ## 🎯 Core Competencies
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### 🌐 Full-Stack Development
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS, HTML/CSS
@@ -46,19 +58,47 @@ tarunagnihotri534@github:~$ cat languages.txt
 - **Mobile**: React Native, Expo
 - **Real-time**: WebSockets, GraphQL
 
-### 🤖 AI & Integrations
-- **ML**: Python, Machine Learning, Deep Learning basics
-- **Integrations**: NLP-driven features, AI-powered automation
+</td>
+    <td valign="top" width="50%">
+
+### 🤖 AI/ML & Integrations
+- **Frameworks**: Python, Machine Learning, Deep Learning basics
+- **LLM Stack**: NLP-driven features, AI-powered automation
 - **Payments**: Stripe, Razorpay
+- **Platforms**: HuggingFace, OpenAI API
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
 
 ### ☁️ Cloud & DevOps
 - **Cloud**: AWS, GCP
 - **Containers**: Docker
 - **CI/CD**: GitHub Actions
+- **Monitoring**: Logs, uptime, performance dashboards
+
+</td>
+    <td valign="top" width="50%">
 
 ### ⛓️ Blockchain & Web3
 - **Protocol**: Internet Computer Protocol (ICP)
 - **Smart Contracts**: On-chain governance, tamper-proof policy execution
+- **Tools**: Motoko, Candid, DFINITY SDK
+- **Networks**: ICP Mainnet, Testnet
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 💼 Work Experience
+
+| Role | Organization | Duration |
+|------|-------------|----------|
+| **Technical Lead** | Dev Hive, Chandigarh University | March 2025 – Present |
+| **Core Member & Secretary** | Dev Hive, Chandigarh University | Prior |
 
 ---
 
