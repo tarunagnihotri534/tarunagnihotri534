@@ -6,7 +6,7 @@
   <img src="./social.gif" width="350" height="350"/>
 </div>
 
-<h3 align="center">Technical Lead & Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
   <img src="./terminal.svg" alt="Animated terminal summary" width="800" />
@@ -108,8 +108,8 @@
 ### ☁️ Cloud & DevOps
 - **Cloud**: AWS, GCP, Azure
 - **Orchestration**: Kubernetes, Docker, Terraform
-- **CI/CD**: GitHub Actions, ArgoCD, Helm
-- **Monitoring**: Prometheus, Grafana, New Relic
+- **CI/CD**: GitHub Actions
+- **Monitoring**: Prometheus, Grafana
 
 </td>
 <td width="50%" valign="top">
