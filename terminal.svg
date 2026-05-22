@@ -64,10 +64,10 @@
 
   <g opacity="0">
     <animate attributeName="opacity" begin="0.9s" dur="0.2s" values="0;1" fill="freeze"/>
-    <text x="36" y="140" font-size="14"><tspan fill="#484f58">name:     </tspan><tspan fill="#e6edf3" font-weight="700">Tarun Agnihotri</tspan></text>
+    <text x="36" y="140" font-size="14"><tspan fill="#484f58">name:     </tspan><tspan fill="#e6edf3" font-weight="700">Tarun Kumar Agnihotri</tspan></text>
     <text x="36" y="162" font-size="14"><tspan fill="#484f58">location: </tspan><tspan fill="#39c5cf" font-weight="700">Lucknow, India</tspan></text>
     <text x="36" y="184" font-size="14"><tspan fill="#484f58">web:      </tspan><tspan fill="#58a6ff" font-weight="700">github.com/tarunagnihotri534</tspan></text>
-    <text x="36" y="206" font-size="14"><tspan fill="#484f58">repos: </tspan><tspan fill="#e3b341" font-weight="700">45</tspan><tspan fill="#484f58">   followers: </tspan><tspan fill="#e3b341" font-weight="700">52</tspan><tspan fill="#484f58">   hireable: </tspan><tspan fill="#3fb950" font-weight="700">true</tspan></text>
+    <text x="36" y="206" font-size="14"><tspan fill="#484f58">repos: </tspan><tspan fill="#e3b341" font-weight="700">21</tspan><tspan fill="#484f58">   followers: </tspan><tspan fill="#e3b341" font-weight="700">4</tspan><tspan fill="#484f58">   hireable: </tspan><tspan fill="#3fb950" font-weight="700">true</tspan></text>
   </g>
 
   <!-- ================================================ -->
