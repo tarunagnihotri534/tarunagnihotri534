@@ -6,7 +6,7 @@
   <img src="./social.gif" width="350" height="350"/>
 </div>
 
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack AI Engineer</h3>
 
 <div align="center">
   <img src="./terminal.svg" alt="Animated terminal summary" width="800" />
@@ -58,7 +58,7 @@
 
 <div align="center">
   
-  > **Engineering focused Full Stack Web Developer & Researcher** with hands-on experience specializing in architecting and scaling **AI integrated, production ready web platforms** from early concept to real world deployment.
+  > **Engineering focused Full Stack AI Engineer & Researcher** with hands-on experience specializing in architecting and scaling **AI integrated, production ready web platforms** from early concept to real world deployment.
   
   > Demonstrated expertise in embedding **intelligent decision making, automation, and analytics** into modern web architectures. Strong emphasis on **clean architecture, performance optimization, microservice based backends, and cloud native deployment strategies** to deliver reliable, extensible, and high impact software solutions.
 
@@ -86,7 +86,7 @@
 <td width="50%" valign="top">
 
 ### 🌐 Full-Stack Development
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, GSAP
 - **Backend**: NestJS, Express, FastAPI, Node.js, Python
 - **Mobile**: React Native, Flutter, Swift, Kotlin
 - **Real-time**: WebSockets, GraphQL, tRPC
