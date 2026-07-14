@@ -180,9 +180,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunagnihotri534&theme=tokyonight" width="49%" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/output/github-contribution-grid-snake.svg" width="49%" alt="Snake Game" />
 </div>
-
----
-
-<div align="center">
-  <sub>Designed with ❤️ by Tarun Agnihotri. All stats update dynamically.</sub>
-</div>
