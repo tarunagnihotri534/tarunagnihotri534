@@ -170,15 +170,15 @@
 ### 📊 GitHub Statistics & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunagnihotri534&show_icons=true&theme=tokyonight&count_private=true" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunagnihotri534&layout=compact&theme=tokyonight" height="180px" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tarunagnihotri534&show_icons=true&theme=tokyonight&count_private=true" height="180px" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tarunagnihotri534&layout=compact&theme=tokyonight" height="180px" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunagnihotri534&theme=tokyonight" width="49%" alt="GitHub Streak" />
-  <img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/output/github-contribution-grid-snake-dark.svg" width="49%" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/output/github-contribution-grid-snake.svg" width="49%" alt="Snake Game" />
 </div>
 
 ---
