@@ -1,9 +1,22 @@
 <div align="center">
+  <img src="./light.svg" alt="Tarun Kumar Agnihotri - Full Stack AI Engineer" width="100%" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/tarunagnihotri534"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/tarun-agnihotri69"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:tarunagnihotri534@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://tarun69-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.youtube.com/@Taruunn_69"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=tarunagnihotri534&label=Profile%20Views&color=334155&style=flat-square" alt="Profile Views" />
+</p>
+
+<div align="center">
   <h1>Hi There, I'm Tarun 😊</h1>
 </div>
 
 <div align="center">
-  <img src="./social.gif" width="350" height="350"/>
+  <img src="./assets/social.gif" width="350" height="350"/>
 </div>
 
 <h3 align="center">Full Stack AI Engineer</h3>
@@ -14,45 +27,45 @@
 
 ---
 
-- <img align='left' src="./Port_Shocking.gif" width="25">I'm currently working on 
+- <img align='left' src="./assets/Port_Shocking.gif" width="25">I'm currently working on 
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-FF6F00?style=plastic&logo=tensorflow)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=plastic&logo=solidity)
 
-- <img align='left' src="./Port_EyeFlikiring.gif" width="25">I'm currently learning 
+- <img align='left' src="./assets/Port_EyeFlikiring.gif" width="25">I'm currently learning 
 ![System Design](https://img.shields.io/badge/-System%20Design-3b2e5a?style=plastic)
 ![TypeScript](https://img.shields.io/badge/-TypeScript%20Optimizations-3178C6?style=plastic&logo=typescript)
 ![AWS Cloud](https://img.shields.io/badge/-AWS-FF9900?style=plastic&logo=amazon-aws)
 
-- <img align='left' src="./Port_AngerVolcano.gif" width="25">I work using 
+- <img align='left' src="./assets/Port_AngerVolcano.gif" width="25">I work using 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes)
 
-- <img align='left' src="./Port_HandShake.gif" width="36">I'm looking for help in 
+- <img align='left' src="./assets/Port_HandShake.gif" width="36">I'm looking for help in 
 ![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=plastic)
 ![Decentralized Solutions](https://img.shields.io/badge/-Web3%20%26%20ICP-000000?style=plastic)
 
-- <img align='left' src="./Port_ShowingAnger.gif" width="24">Ask me about 
+- <img align='left' src="./assets/Port_ShowingAnger.gif" width="24">Ask me about 
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=plastic&logo=nestjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb)
 
-- <img align='left' src="./Port_Msg.gif" width="27">How to reach me
+- <img align='left' src="./assets/Port_Msg.gif" width="27">How to reach me
 [![Gmail Badge](https://img.shields.io/badge/-tarunagnihotri534-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:tarunagnihotri534@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-agnihotri69)
 
-- <img align='left' src="./Port_ShowingLove.gif" width="25">Projects are available at
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://tarun-agnihotri-portfolio.vercel.app/)
+- <img align='left' src="./assets/Port_ShowingLove.gif" width="25">Projects are available at
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://tarun69-portfolio.web.app/)
 
-- <img align='left' src="./Port_Laptop.gif" width="24">Know about my experiences
+- <img align='left' src="./assets/Port_Laptop.gif" width="24">Know about my experiences
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-agnihotri69)
 
-- <img align='left' src="./Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
+- <img align='left' src="./assets/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
 
 ---
 
@@ -162,7 +175,7 @@
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="50" height="50"/> </a>
 </p>
 
-<h3 align="left">Connect with me: <img align='center' src="./Port_HandShake.gif" width="50"></h3>
+<h3 align="left">Connect with me: <img align='center' src="./assets/Port_HandShake.gif" width="50"></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tarun-agnihotri69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-agnihotri69" height="30" width="40" /></a>
 <a href="mailto:tarunagnihotri534@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
