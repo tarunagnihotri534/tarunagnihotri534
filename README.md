@@ -23,7 +23,7 @@
 <h3 align="center">Full Stack AI Engineer</h3>
 
 <div align="center">
-  <img src="./terminal.svg" alt="Animated terminal summary" width="800" />
+  <img src="./terminal.svg?v=1784743357311" alt="Animated terminal summary" width="800" />
 </div>
 
 ---

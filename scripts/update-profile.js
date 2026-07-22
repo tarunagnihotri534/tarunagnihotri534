@@ -161,6 +161,16 @@ async function main() {
     fs.writeFileSync(TERMINAL_SVG_PATH, svgContent, 'utf8');
     console.log('Successfully updated terminal.svg with active projects and stats.');
 
+    // Update README.md with a cache-busting version query string to bypass GitHub Camo cache
+    const readmePath = path.join(__dirname, '..', 'README.md');
+    if (fs.existsSync(readmePath)) {
+      let readmeContent = fs.readFileSync(readmePath, 'utf8');
+      const readmeRegex = /(src="\.\/terminal\.svg)(\?v=[^"\s]+)?(")/;
+      readmeContent = readmeContent.replace(readmeRegex, `$1?v=${Date.now()}$3`);
+      fs.writeFileSync(readmePath, readmeContent, 'utf8');
+      console.log('Successfully updated README.md with cache-buster query string.');
+    }
+
   } catch (error) {
     console.error('Fatal execution error:', error.message);
     process.exit(1);
