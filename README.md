@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./light.svg" alt="Tarun Kumar Agnihotri - Full Stack AI Engineer" width="100%" />
+  <img src="./assets/light.svg" alt="Tarun Kumar Agnihotri - Full Stack AI Engineer" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://github.com/tarunagnihotri534"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/tarun-agnihotri69"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:tarunagnihotri534@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="./TARUN_RESUME.pdf"><img src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>&nbsp;
+  <a href="./assets/TARUN_RESUME.pdf"><img src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>&nbsp;
   <a href="https://tarun69-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.youtube.com/@Taruunn_69"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=tarunagnihotri534&label=Profile%20Views&color=334155&style=flat-square" alt="Profile Views" />
@@ -23,7 +23,7 @@
 <h3 align="center">Full Stack AI Engineer</h3>
 
 <div align="center">
-  <img src="./terminal.svg?v=1784743357311" alt="Animated terminal summary" width="800" />
+  <img src="./assets/terminal.svg?v=1784743660389" alt="Animated terminal summary" width="800" />
 </div>
 
 ---
@@ -65,7 +65,7 @@
 
 - <img align='left' src="./assets/Port_Laptop.gif" width="24">Know about my experiences / Resume
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-agnihotri69)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=plastic&logo=adobeacrobatreader&logoColor=white)](./TARUN_RESUME.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=plastic&logo=adobeacrobatreader&logoColor=white)](./assets/TARUN_RESUME.pdf)
 
 - <img align='left' src="./assets/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
 

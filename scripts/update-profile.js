@@ -6,7 +6,7 @@ const USERNAME = 'tarunagnihotri534';
 const IGNORE_REPOS = [USERNAME, 'QR-Code-Generator']; // Ignore profile and specified repos
 const PINNED_REPOS = ['RouteLens', 'DocSense', 'PROPTRACE-SDK', 'EnvShield'];
 const MAX_PROJECTS = 4;
-const TERMINAL_SVG_PATH = path.join(__dirname, '..', 'terminal.svg');
+const TERMINAL_SVG_PATH = path.join(__dirname, '..', 'assets', 'terminal.svg');
 
 function get(url) {
   return new Promise((resolve, reject) => {
@@ -165,7 +165,7 @@ async function main() {
     const readmePath = path.join(__dirname, '..', 'README.md');
     if (fs.existsSync(readmePath)) {
       let readmeContent = fs.readFileSync(readmePath, 'utf8');
-      const readmeRegex = /(src="\.\/terminal\.svg)(\?v=[^"\s]+)?(")/;
+      const readmeRegex = /(src="\.\/assets\/terminal\.svg)(\?v=[^"\s]+)?(")/;
       readmeContent = readmeContent.replace(readmeRegex, `$1?v=${Date.now()}$3`);
       fs.writeFileSync(readmePath, readmeContent, 'utf8');
       console.log('Successfully updated README.md with cache-buster query string.');
