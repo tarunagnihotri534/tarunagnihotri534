@@ -67,7 +67,9 @@
     <text x="36" y="140" font-size="14"><tspan fill="#484f58">name:     </tspan><tspan fill="#e6edf3" font-weight="700">Tarun Kumar Agnihotri</tspan></text>
     <text x="36" y="162" font-size="14"><tspan fill="#484f58">location: </tspan><tspan fill="#39c5cf" font-weight="700">Lucknow, India</tspan></text>
     <text x="36" y="184" font-size="14"><tspan fill="#484f58">web:      </tspan><tspan fill="#58a6ff" font-weight="700">github.com/tarunagnihotri534</tspan></text>
-    <text x="36" y="206" font-size="14"><tspan fill="#484f58">repos: </tspan><tspan fill="#e3b341" font-weight="700">21</tspan><tspan fill="#484f58">   followers: </tspan><tspan fill="#e3b341" font-weight="700">4</tspan><tspan fill="#484f58">   hireable: </tspan><tspan fill="#3fb950" font-weight="700">true</tspan></text>
+    <!-- STATS_START -->
+    <text x="36" y="206" font-size="14"><tspan fill="#484f58">repos: </tspan><tspan fill="#e3b341" font-weight="700">19</tspan><tspan fill="#484f58">   followers: </tspan><tspan fill="#e3b341" font-weight="700">13</tspan><tspan fill="#484f58">   hireable: </tspan><tspan fill="#3fb950" font-weight="700">true</tspan></text>
+    <!-- STATS_END -->
   </g>
 
   <!-- ================================================ -->
@@ -90,10 +92,12 @@
 
   <g opacity="0">
     <animate attributeName="opacity" begin="2.7s" dur="0.2s" values="0;1" fill="freeze"/>
-    <text x="36" y="262" font-size="14"><tspan fill="#e3b341">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">CivicLedger/</tspan><tspan fill="#484f58">      TypeScript</tspan></text>
-    <text x="36" y="284" font-size="14"><tspan fill="#58a6ff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">JanMitra/</tspan><tspan fill="#484f58">         JavaScript</tspan></text>
-    <text x="36" y="306" font-size="14"><tspan fill="#3fb950">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">RoadSense/</tspan><tspan fill="#484f58">        JavaScript</tspan></text>
-    <text x="36" y="328" font-size="14"><tspan fill="#bc8cff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">DevHive/</tspan><tspan fill="#484f58">          TypeScript</tspan></text>
+    <!-- PROJECTS_LIST_START -->
+    <text x="36" y="262" font-size="14"><tspan fill="#e3b341">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">RouteLens/</tspan><tspan fill="#484f58">        TypeScript</tspan></text>
+    <text x="36" y="284" font-size="14"><tspan fill="#58a6ff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">DocSense/</tspan><tspan fill="#484f58">         TypeScript</tspan></text>
+    <text x="36" y="306" font-size="14"><tspan fill="#3fb950">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">PROPTRACE-SDK/</tspan><tspan fill="#484f58">    TypeScript</tspan></text>
+    <text x="36" y="328" font-size="14"><tspan fill="#bc8cff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">EnvShield/</tspan><tspan fill="#484f58">        TypeScript</tspan></text>
+    <!-- PROJECTS_LIST_END -->
   </g>
 
   <!-- ====================================================== -->
@@ -123,7 +127,7 @@
       <tspan fill="#484f58">   </tspan>
       <tspan fill="#bc8cff">&#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">Python</tspan>
       <tspan fill="#484f58">   </tspan>
-      <tspan fill="#3fb950">&#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">Solidity</tspan>
+      <tspan fill="#39c5cf">&#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">Solidity</tspan>
     </text>
     <text x="36" y="408" font-size="14">
       <tspan fill="#58a6ff">  &#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">Rust</tspan>
@@ -154,10 +158,12 @@
 
   <g opacity="0">
     <animate attributeName="opacity" begin="5.8s" dur="0.2s" values="0;1" fill="freeze"/>
-    <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">3a1f2b</tspan><tspan fill="#e6edf3" font-weight="700">  feat: integrate ICP canisters</tspan><tspan fill="#39c5cf">  (CivicLedger)</tspan></text>
-    <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">9c4e7d</tspan><tspan fill="#e6edf3" font-weight="700">  feat: train scheme recommender</tspan><tspan fill="#39c5cf">  (JanMitra)</tspan></text>
-    <text x="36" y="512" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">2b8f1a</tspan><tspan fill="#e6edf3" font-weight="700">  fix: optimize anomaly detection</tspan><tspan fill="#39c5cf">  (RoadSense)</tspan></text>
-    <text x="36" y="534" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">d5a3c0</tspan><tspan fill="#e6edf3" font-weight="700">  init: setup DevHive workspace</tspan></text>
+    <!-- GIT_LOG_START -->
+    <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">9d6f8d</tspan><tspan fill="#e6edf3" font-weight="700">  docs: update README with about s...</tspan><tspan fill="#39c5cf">  (RouteLens)</tspan></text>
+    <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">f13e62</tspan><tspan fill="#e6edf3" font-weight="700">  Update README.md</tspan><tspan fill="#39c5cf">  (DocSense)</tspan></text>
+    <text x="36" y="512" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">59dff9</tspan><tspan fill="#e6edf3" font-weight="700">  docs: add system architecture, F...</tspan><tspan fill="#39c5cf">  (PROPTRACE-SDK)</tspan></text>
+    <text x="36" y="534" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">9a8078</tspan><tspan fill="#e6edf3" font-weight="700">  Create README.md for EnvShield p...</tspan><tspan fill="#39c5cf">  (EnvShield)</tspan></text>
+    <!-- GIT_LOG_END -->
   </g>
 
   <!-- ================================================= -->
