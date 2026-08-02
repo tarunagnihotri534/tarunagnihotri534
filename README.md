@@ -1,6 +1,13 @@
 <div align="center">
-  <img src="./assets/banner.gif" alt="Tarun Kumar Agnihotri - Full Stack AI Engineer" width="100%" />
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
 </div>
+
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and play games**&nbsp;&nbsp;![](Video%20Games%20Gamer%20GIF.gif)
+
+<br>
+<br>
 
 <p align="center">
   <a href="https://github.com/tarunagnihotri534"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
@@ -16,9 +23,6 @@
   <h1>Hi There, I'm Tarun 😊</h1>
   <p>
     <strong>Full Stack AI Engineer</strong>&nbsp;&nbsp;<img src="./assets/Port_Laptop.gif" width="24" align="center" />&nbsp;&nbsp;<strong>Web3 & AI Researcher</strong>
-  </p>
-  <p>
-    <strong>i love code</strong>&nbsp;&nbsp;<img src="./cat-typing.gif" width="35" align="center" />&nbsp;&nbsp;<strong>and gaming</strong>&nbsp;&nbsp;<img src="./Video%20Games%20Gamer%20GIF.gif" width="40" align="center" />
   </p>
   <br>
   <img src="./assets/social.gif" width="320" />
