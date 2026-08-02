@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and play games**&nbsp;&nbsp;![](Video%20Games%20Gamer%20GIF.gif)
+**i love code**&nbsp;&nbsp;<img src="cat-typing.gif" height="32" align="center" />&nbsp;&nbsp;**and play games**&nbsp;&nbsp;<img src="Video%20Games%20Gamer%20GIF.gif" height="42" align="center" />
 
 <br>
 <br>
@@ -238,6 +238,4 @@
 
 <br>
 
-<div align="center">
-  <img src="./flames.gif" width="100%" alt="Flames footer" />
-</div>
+![](flames.gif)
