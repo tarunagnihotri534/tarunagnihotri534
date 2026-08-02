@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/light.svg" alt="Tarun Kumar Agnihotri - Full Stack AI Engineer" width="100%" />
+  <img src="./assets/banner.gif" alt="Tarun Kumar Agnihotri - Full Stack AI Engineer" width="100%" />
 </div>
 
 <p align="center">
