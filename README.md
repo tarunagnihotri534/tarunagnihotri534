@@ -17,6 +17,9 @@
   <p>
     <strong>Full Stack AI Engineer</strong>&nbsp;&nbsp;<img src="./assets/Port_Laptop.gif" width="24" align="center" />&nbsp;&nbsp;<strong>Web3 & AI Researcher</strong>
   </p>
+  <p>
+    <strong>i love code</strong>&nbsp;&nbsp;<img src="./cat-typing.gif" width="35" align="center" />&nbsp;&nbsp;<strong>and gaming</strong>&nbsp;&nbsp;<img src="./Video%20Games%20Gamer%20GIF.gif" width="40" align="center" />
+  </p>
   <br>
   <img src="./assets/social.gif" width="320" />
   <br><br>
@@ -227,4 +230,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunagnihotri534&theme=tokyonight" width="49%" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/output/github-contribution-grid-snake.svg" width="49%" alt="Snake Game" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./flames.gif" width="100%" alt="Flames footer" />
 </div>
