@@ -19,6 +19,10 @@
   <img src="https://komarev.com/ghpvc/?username=tarunagnihotri534&label=Profile%20Views&color=334155&style=flat-square" alt="Profile Views" />
 </p>
 
+<br>
+
+![](flames.gif)
+
 <div align="center">
   <h1>Hi There, I'm Tarun 😊</h1>
   <p>
@@ -235,7 +239,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunagnihotri534&theme=tokyonight" width="49%" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/output/github-contribution-grid-snake.svg" width="49%" alt="Snake Game" />
 </div>
-
-<br>
-
-![](flames.gif)
