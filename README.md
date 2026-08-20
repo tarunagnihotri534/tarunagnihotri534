@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-**i love code**&nbsp;&nbsp;<img src="cat-typing.gif" height="32" align="center" />&nbsp;&nbsp;**and play games**&nbsp;&nbsp;<img src="Video%20Games%20Gamer%20GIF.gif" height="42" align="center" />
+**i love code**&nbsp;&nbsp;<img src="cat-typing.gif" height="80" align="center" />&nbsp;&nbsp;**and play games**&nbsp;&nbsp;<img src="Video%20Games%20Gamer%20GIF.gif" height="95" align="center" />
 
 <br>
 <br>
