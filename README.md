@@ -31,7 +31,7 @@
   <br>
   <img src="./assets/social.gif" width="320" />
   <br><br>
-  <img src="./assets/terminal.svg?v=1788706523825" alt="Animated terminal summary" width="800" />
+  <img src="./assets/terminal.svg?v=1788749663260" alt="Animated terminal summary" width="800" />
 </div>
 
 <br>
