@@ -16,6 +16,7 @@
   <a href="./assets/TARUN_RESUME.pdf"><img src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>&nbsp;
   <a href="https://tarun69-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.youtube.com/@Taruunn_69"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
+  <a href="https://www.npmjs.com/package/@tarunagnihotri534/jennie"><img src="https://img.shields.io/npm/dt/@tarunagnihotri534/jennie?style=flat-square&logo=npm&logoColor=white&label=Jennie%20Downloads&color=CB3837" alt="Jennie npm Downloads" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=tarunagnihotri534&label=Profile%20Views&color=334155&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -35,12 +36,32 @@
 </div>
 
 <br>
+
+<div align="center">
+  <h3>🤖 Featured Open Source Project: Jennie</h3>
+  <p><em>The Autonomous AI Code Reviewer for Indie Devs & Teams</em></p>
+  <a href="https://github.com/tarunagnihotri534/Jennie">
+    <img src="https://img.shields.io/badge/GitHub-tarunagnihotri534%2FJennie-181717?style=for-the-badge&logo=github" alt="Jennie GitHub" />
+  </a>
+  <a href="https://www.npmjs.com/package/@tarunagnihotri534/jennie">
+    <img src="https://img.shields.io/npm/v/@tarunagnihotri534/jennie?style=for-the-badge&logo=npm&color=CB3837" alt="npm version" />
+  </a>
+  <a href="https://www.npmjs.com/package/@tarunagnihotri534/jennie">
+    <img src="https://img.shields.io/npm/dt/@tarunagnihotri534/jennie?style=for-the-badge&logo=npm&color=22c55e&label=Total%20Downloads" alt="npm total downloads" />
+  </a>
+  <a href="https://www.npmjs.com/package/@tarunagnihotri534/jennie">
+    <img src="https://img.shields.io/npm/dm/@tarunagnihotri534/jennie?style=for-the-badge&logo=npm&color=0284c7&label=Monthly" alt="npm monthly downloads" />
+  </a>
+</div>
+
+<br>
 <hr>
 <br>
 
 <img src="./assets/Port_EyeFlikiring.gif" align="right" width="70" alt="Sticker animation">
 
 - <img align="left" src="./assets/Port_Shocking.gif" width="25"> **Currently Working On:**
+  [![Jennie](https://img.shields.io/badge/-Jennie%20(AI%20Code%20Reviewer)-6366F1?style=plastic&logo=npm&logoColor=white)](https://github.com/tarunagnihotri534/Jennie)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
