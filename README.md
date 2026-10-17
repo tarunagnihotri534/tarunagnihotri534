@@ -32,7 +32,7 @@
   <br>
   <img src="./assets/social.gif" width="320" />
   <br><br>
-  <img src="./assets/terminal.svg?v=1792166694483" alt="Animated terminal summary" width="800" />
+  <img src="./assets/terminal.svg?v=1792206003229" alt="Animated terminal summary" width="800" />
 </div>
 
 <br>
