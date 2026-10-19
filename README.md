@@ -1,8 +1,12 @@
-<div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-	<br>
-</div>
+# Tarun Kumar Agnihotri
+
+B.Tech CSE, [Chandigarh University](https://www.cuchd.in/) (Class of 2029) · Lucknow, India
+
+Interested in Open Source — especially bug hunting with ESLint, CodeQL, and Ruff.
+
+I contribute where I can to execution specs: cross-language testing across Go, TypeScript, and Flutter, plus execution-layer testing.
+
+<br>
 
 **i love code**&nbsp;&nbsp;<img src="cat-typing.gif" height="80" align="center" />&nbsp;&nbsp;**and play games**&nbsp;&nbsp;<img src="Video%20Games%20Gamer%20GIF.gif" height="95" align="center" />
 
@@ -16,18 +20,6 @@
   <a href="https://tarun69-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.npmjs.com/package/@tarunagnihotri534/jennie"><img src="https://img.shields.io/npm/dt/@tarunagnihotri534/jennie?style=flat-square&logo=npm&logoColor=white&label=Jennie%20Downloads&color=CB3837" alt="Jennie npm Downloads" /></a>
 </p>
-
-<br>
-<br>
-
-<div align="center">
-  <h1>Hi There, I'm Tarun 😊</h1>
-  <p>
-    <strong>Full Stack AI Engineer</strong>&nbsp;&nbsp;<img src="./assets/Port_Laptop.gif" width="24" align="center" />&nbsp;&nbsp;<strong>Web3 & AI Researcher</strong>
-  </p>
-  <br>
-  <img src="./assets/social.gif" width="320" />
-</div>
 
 <br>
 <hr>
