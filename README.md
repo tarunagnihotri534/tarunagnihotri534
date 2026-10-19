@@ -4,7 +4,7 @@ B.Tech CSE, [Chandigarh University](https://www.cuchd.in/) (Class of 2029) · Lu
 
 Interested in Open Source — especially bug hunting with ESLint, CodeQL, and Ruff.
 
-I contribute where I can to execution specs: cross-language testing across Go, TypeScript, and Flutter, plus execution-layer testing.
+I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema): TypeScript typings and regression tests for declaration errors.
 
 <br>
 
