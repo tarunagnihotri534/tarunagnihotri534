@@ -20,7 +20,7 @@ function get(url) {
         'Accept': 'application/vnd.github.v3+json'
       }
     };
-    if (process.env.GITHUB_TOKEN) {
+    if (process.env.GITHUB_TOKEN && parsedUrl.hostname.includes('github.com')) {
       options.headers['Authorization'] = `token ${process.env.GITHUB_TOKEN}`;
     }
     
@@ -40,6 +40,139 @@ function get(url) {
       });
     }).on('error', reject);
   });
+}
+
+const KNOWN_NPM_PACKAGES = [
+  'cogito-cli',
+  '@tarunagnihotri534/jennie',
+  'loom-design-system',
+  'loom-design-system-tokens',
+  'loom-design-system-react'
+];
+
+function formatDownloads(num) {
+  if (num >= 1000000) return (num / 1000000).toFixed(1).replace(/\.0$/, '') + 'M';
+  if (num >= 1000) return (num / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
+  return num.toString();
+}
+
+async function getPackageTotalDownloads(pkgName) {
+  const currentYear = new Date().getFullYear();
+  let total = 0;
+  for (let year = 2024; year <= currentYear; year++) {
+    const start = `${year}-01-01`;
+    const end = `${year}-12-31`;
+    const url = `https://api.npmjs.org/downloads/range/${start}:${end}/${encodeURIComponent(pkgName)}`;
+    try {
+      const data = await get(url);
+      if (data && Array.isArray(data.downloads)) {
+        total += data.downloads.reduce((sum, d) => sum + (d.downloads || 0), 0);
+      }
+    } catch (err) {
+      // Range might be empty or package didn't exist in that year
+    }
+  }
+  return total;
+}
+
+async function getNpmStats(username) {
+  console.log(`Fetching npm packages for user ${username}...`);
+  const pkgSet = new Set(KNOWN_NPM_PACKAGES);
+  try {
+    const searchUrls = [
+      `https://registry.npmjs.org/-/v1/search?text=maintainer:${username}&size=250`,
+      `https://registry.npmjs.org/-/v1/search?text=author:${username}&size=250`
+    ];
+    for (const url of searchUrls) {
+      try {
+        const data = await get(url);
+        if (data && Array.isArray(data.objects)) {
+          data.objects.forEach((obj) => {
+            if (obj.package && obj.package.name) {
+              pkgSet.add(obj.package.name);
+            }
+          });
+        }
+      } catch (err) {
+        console.error(`Error querying npm search (${url}):`, err.message);
+      }
+    }
+  } catch (err) {
+    console.error('Error discovering npm packages:', err.message);
+  }
+
+  const packages = Array.from(pkgSet);
+  console.log(`Discovered ${packages.length} packages for ${username}:`, packages);
+
+  let totalDownloads = 0;
+  const breakdown = {};
+  const packageList = [];
+  for (const pkg of packages) {
+    const count = await getPackageTotalDownloads(pkg);
+    breakdown[pkg] = count;
+    totalDownloads += count;
+    console.log(`- ${pkg}: ${count} downloads`);
+
+    let version = '0.1.0';
+    let description = '';
+    try {
+      const pkgMeta = await get(`https://registry.npmjs.org/${encodeURIComponent(pkg).replace('%40', '@')}`);
+      if (pkgMeta) {
+        version = pkgMeta['dist-tags']?.latest || version;
+        description = pkgMeta.description || '';
+      }
+    } catch (err) {
+      // Keep defaults
+    }
+
+    packageList.push({
+      name: pkg,
+      version,
+      description,
+      downloads: count
+    });
+  }
+
+  // Sort by downloads descending
+  packageList.sort((a, b) => b.downloads - a.downloads);
+
+  const formatted = formatDownloads(totalDownloads);
+  console.log(`Total combined npm downloads: ${totalDownloads} (${formatted}) across ${packages.length} packages`);
+  return { total: totalDownloads, formatted, count: packages.length, breakdown, packages: packageList };
+}
+
+function generateNpmSection(username, npmStats) {
+  let tableRows = '';
+  npmStats.packages.forEach((pkg) => {
+    const pkgUrl = `https://www.npmjs.com/package/${pkg.name}`;
+    const versionBadge = `[![version](https://img.shields.io/npm/v/${pkg.name}?color=2563eb&style=flat-square&logo=npm)](${pkgUrl})`;
+    const downloadsBadge = `[![downloads](https://img.shields.io/npm/dt/${pkg.name}?color=10b981&style=flat-square&logo=npm&label=downloads)](${pkgUrl})`;
+    let desc = pkg.description || '';
+    if (desc.length > 110) desc = desc.substring(0, 107) + '...';
+    tableRows += `| [**\`${pkg.name}\`**](${pkgUrl}) | ${desc} | ${versionBadge} | ${downloadsBadge} |\n`;
+  });
+
+  return `<!-- NPM_SECTION_START -->
+<div align="center">
+
+### 📦 Published NPM Packages & Downloads
+
+<p align="center">
+  <a href="https://www.npmjs.com/~${username}" target="_blank">
+    <img src="https://img.shields.io/badge/Total%20NPM%20Downloads-${npmStats.formatted}%2B-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Total NPM Downloads" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.npmjs.com/~${username}" target="_blank">
+    <img src="https://img.shields.io/badge/Packages%20Published-${npmStats.count}-0284c7?style=for-the-badge&logo=npm&logoColor=white" alt="Published Packages" />
+  </a>
+</p>
+
+| Package | Description | Latest Version | Total Downloads |
+| :--- | :--- | :---: | :---: |
+${tableRows.trimEnd()}
+
+</div>
+<!-- NPM_SECTION_END -->`;
 }
 
 async function getLatestCommit(repoName) {
@@ -161,16 +294,59 @@ async function main() {
     fs.writeFileSync(TERMINAL_SVG_PATH, svgContent, 'utf8');
     console.log('Successfully updated terminal.svg with active projects and stats.');
 
-    // Update README.md with a cache-busting version query string to bypass GitHub Camo cache if terminal is embedded
+    // Fetch and calculate combined npm package downloads
+    const npmStats = await getNpmStats(USERNAME);
+
+    // Save npm downloads json in assets
+    const npmJsonPath = path.join(__dirname, '..', 'assets', 'npm-downloads.json');
+    const npmJsonData = {
+      schemaVersion: 1,
+      label: 'npm downloads',
+      message: npmStats.formatted,
+      color: 'CB3837',
+      totalDownloads: npmStats.total,
+      packagesPublished: npmStats.count,
+      packages: npmStats.packages,
+      breakdown: npmStats.breakdown,
+      updatedAt: new Date().toISOString()
+    };
+    fs.writeFileSync(npmJsonPath, JSON.stringify(npmJsonData, null, 2), 'utf8');
+    console.log('Successfully updated assets/npm-downloads.json.');
+
+    // Update README.md with cache-buster, badges, and NPM Packages section
     const readmePath = path.join(__dirname, '..', 'README.md');
     if (fs.existsSync(readmePath)) {
       let readmeContent = fs.readFileSync(readmePath, 'utf8');
       const readmeRegex = /(src="\.\/assets\/terminal\.svg)(\?v=[^"\s]+)?(")/;
       if (readmeRegex.test(readmeContent)) {
         readmeContent = readmeContent.replace(readmeRegex, `$1?v=${Date.now()}$3`);
-        fs.writeFileSync(readmePath, readmeContent, 'utf8');
         console.log('Successfully updated README.md with cache-buster query string.');
       }
+
+      // Update top row npm badges
+      const topBadgesRegex = /<a\s+href="https:\/\/www\.npmjs\.com\/[^"]*">\s*<img\s+src="https:\/\/img\.shields\.io\/[^"]*"[^>]*alt="[^"]*npm\s*[Dd]ownloads"[^>]*\/>\s*<\/a>(\s*&nbsp;\s*<a\s+href="https:\/\/www\.npmjs\.com\/[^"]*">\s*<img\s+src="https:\/\/img\.shields\.io\/[^"]*"[^>]*alt="[^"]*Packages\s+Published"[^>]*\/>\s*<\/a>)?/;
+      const newTopBadges = `<a href="https://www.npmjs.com/~${USERNAME}"><img src="https://img.shields.io/badge/npm%20downloads-${npmStats.formatted}-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" /></a>&nbsp;\n  <a href="https://www.npmjs.com/~${USERNAME}"><img src="https://img.shields.io/badge/Packages%20Published-${npmStats.count}-0284c7?style=flat-square&logo=npm&logoColor=white" alt="Packages Published" /></a>`;
+
+      if (topBadgesRegex.test(readmeContent)) {
+        readmeContent = readmeContent.replace(topBadgesRegex, newTopBadges);
+        console.log(`Successfully updated top npm badges (downloads: ${npmStats.formatted}, packages: ${npmStats.count}).`);
+      }
+
+      // Update or insert full NPM Section
+      const npmSectionContent = generateNpmSection(USERNAME, npmStats);
+      const npmSectionRegex = /<!-- NPM_SECTION_START -->[\s\S]*?<!-- NPM_SECTION_END -->/;
+      if (npmSectionRegex.test(readmeContent)) {
+        readmeContent = readmeContent.replace(npmSectionRegex, npmSectionContent);
+        console.log('Successfully updated NPM packages section in README.md.');
+      } else {
+        const statsHeaderRegex = /(### 📊 GitHub Statistics & Metrics)/;
+        if (statsHeaderRegex.test(readmeContent)) {
+          readmeContent = readmeContent.replace(statsHeaderRegex, `${npmSectionContent}\n\n<br>\n<hr>\n<br>\n\n$1`);
+          console.log('Successfully inserted NPM packages section before GitHub stats.');
+        }
+      }
+
+      fs.writeFileSync(readmePath, readmeContent, 'utf8');
     }
 
   } catch (error) {

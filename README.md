@@ -18,7 +18,8 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
   <a href="https://www.linkedin.com/in/tarun-agnihotri69"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:tarunagnihotri534@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://tarun69-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.npmjs.com/package/@tarunagnihotri534/jennie"><img src="https://img.shields.io/npm/dt/@tarunagnihotri534/jennie?style=flat-square&logo=npm&logoColor=white&label=Jennie%20Downloads&color=CB3837" alt="Jennie npm Downloads" /></a>
+  <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/npm%20downloads-2.1k-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" /></a>&nbsp;
+  <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/Packages%20Published-5-0284c7?style=flat-square&logo=npm&logoColor=white" alt="Packages Published" /></a>
 </p>
 
 <br>
@@ -69,6 +70,36 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
 <a href="mailto:tarunagnihotri534@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/></a>
 <a href="https://www.youtube.com/@Taruunn_69" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Taruunn_69" height="30" width="40" /></a>
 </p>
+
+<br>
+<hr>
+<br>
+
+<!-- NPM_SECTION_START -->
+<div align="center">
+
+### 📦 Published NPM Packages & Downloads
+
+<p align="center">
+  <a href="https://www.npmjs.com/~tarunagnihotri534" target="_blank">
+    <img src="https://img.shields.io/badge/Total%20NPM%20Downloads-2.1k%2B-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Total NPM Downloads" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.npmjs.com/~tarunagnihotri534" target="_blank">
+    <img src="https://img.shields.io/badge/Packages%20Published-5-0284c7?style=for-the-badge&logo=npm&logoColor=white" alt="Published Packages" />
+  </a>
+</p>
+
+| Package | Description | Latest Version | Total Downloads |
+| :--- | :--- | :---: | :---: |
+| [**`@tarunagnihotri534/jennie`**](https://www.npmjs.com/package/@tarunagnihotri534/jennie) | The Autonomous AI Code Reviewer for Indie Devs & Teams | [![version](https://img.shields.io/npm/v/@tarunagnihotri534/jennie?color=2563eb&style=flat-square&logo=npm)](https://www.npmjs.com/package/@tarunagnihotri534/jennie) | [![downloads](https://img.shields.io/npm/dt/@tarunagnihotri534/jennie?color=10b981&style=flat-square&logo=npm&label=downloads)](https://www.npmjs.com/package/@tarunagnihotri534/jennie) |
+| [**`loom-design-system-tokens`**](https://www.npmjs.com/package/loom-design-system-tokens) | Design tokens for the Loom design system with compile-time 3-tier layering and WCAG AA contrast validation | [![version](https://img.shields.io/npm/v/loom-design-system-tokens?color=2563eb&style=flat-square&logo=npm)](https://www.npmjs.com/package/loom-design-system-tokens) | [![downloads](https://img.shields.io/npm/dt/loom-design-system-tokens?color=10b981&style=flat-square&logo=npm&label=downloads)](https://www.npmjs.com/package/loom-design-system-tokens) |
+| [**`loom-design-system`**](https://www.npmjs.com/package/loom-design-system) | Unified Loom Design System: tokens, CSS variables, and accessible React UI components | [![version](https://img.shields.io/npm/v/loom-design-system?color=2563eb&style=flat-square&logo=npm)](https://www.npmjs.com/package/loom-design-system) | [![downloads](https://img.shields.io/npm/dt/loom-design-system?color=10b981&style=flat-square&logo=npm&label=downloads)](https://www.npmjs.com/package/loom-design-system) |
+| [**`loom-design-system-react`**](https://www.npmjs.com/package/loom-design-system-react) | Accessible React UI components built strictly with Loom design tokens | [![version](https://img.shields.io/npm/v/loom-design-system-react?color=2563eb&style=flat-square&logo=npm)](https://www.npmjs.com/package/loom-design-system-react) | [![downloads](https://img.shields.io/npm/dt/loom-design-system-react?color=10b981&style=flat-square&logo=npm&label=downloads)](https://www.npmjs.com/package/loom-design-system-react) |
+| [**`cogito-cli`**](https://www.npmjs.com/package/cogito-cli) | Institutional memory for your codebase. Cogito captures architectural decisions and surfaces them automatic... | [![version](https://img.shields.io/npm/v/cogito-cli?color=2563eb&style=flat-square&logo=npm)](https://www.npmjs.com/package/cogito-cli) | [![downloads](https://img.shields.io/npm/dt/cogito-cli?color=10b981&style=flat-square&logo=npm&label=downloads)](https://www.npmjs.com/package/cogito-cli) |
+
+</div>
+<!-- NPM_SECTION_END -->
 
 <br>
 <hr>
