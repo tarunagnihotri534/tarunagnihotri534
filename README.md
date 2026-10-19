@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <a href="./assets/TARUN_RESUME.pdf"><img src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>&nbsp;
+  <a href="https://drive.google.com/file/d/1LMaJe872TQ_Qtk-GqUXPPyf1laFSccfS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/tarun-agnihotri69"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:tarunagnihotri534@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://tarun69-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
