@@ -95,8 +95,8 @@
     <!-- PROJECTS_LIST_START -->
     <text x="36" y="262" font-size="14"><tspan fill="#e3b341">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">PROPTRACE-SDK/</tspan><tspan fill="#484f58">    TypeScript</tspan></text>
     <text x="36" y="284" font-size="14"><tspan fill="#58a6ff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">EnvShield/</tspan><tspan fill="#484f58">        TypeScript</tspan></text>
-    <text x="36" y="306" font-size="14"><tspan fill="#3fb950">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">Flappy-Bird-DeepLearning/</tspan><tspan fill="#484f58"> Python</tspan></text>
-    <text x="36" y="328" font-size="14"><tspan fill="#bc8cff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">Loom/</tspan><tspan fill="#484f58">             TypeScript</tspan></text>
+    <text x="36" y="306" font-size="14"><tspan fill="#3fb950">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">rust/</tspan><tspan fill="#484f58">             Rust</tspan></text>
+    <text x="36" y="328" font-size="14"><tspan fill="#bc8cff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">Flappy-Bird-DeepLearning/</tspan><tspan fill="#484f58"> Python</tspan></text>
     <!-- PROJECTS_LIST_END -->
   </g>
 
@@ -161,8 +161,8 @@
     <!-- GIT_LOG_START -->
     <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">59dff9</tspan><tspan fill="#e6edf3" font-weight="700">  docs: add system architecture, F...</tspan><tspan fill="#39c5cf">  (PROPTRACE-SDK)</tspan></text>
     <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">9a8078</tspan><tspan fill="#e6edf3" font-weight="700">  Create README.md for EnvShield p...</tspan><tspan fill="#39c5cf">  (EnvShield)</tspan></text>
-    <text x="36" y="512" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">244289</tspan><tspan fill="#e6edf3" font-weight="700">  Initial commit: Autonomous Flapp...</tspan><tspan fill="#39c5cf">  (Flappy-Bird-DeepLearning)</tspan></text>
-    <text x="36" y="534" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">a7b7b3</tspan><tspan fill="#e6edf3" font-weight="700">  chore: mark modular packages as ...</tspan><tspan fill="#39c5cf">  (Loom)</tspan></text>
+    <text x="36" y="512" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">5fb458</tspan><tspan fill="#e6edf3" font-weight="700">  Add project README</tspan><tspan fill="#39c5cf">  (rust)</tspan></text>
+    <text x="36" y="534" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">244289</tspan><tspan fill="#e6edf3" font-weight="700">  Initial commit: Autonomous Flapp...</tspan><tspan fill="#39c5cf">  (Flappy-Bird-DeepLearning)</tspan></text>
     <!-- GIT_LOG_END -->
   </g>
 
