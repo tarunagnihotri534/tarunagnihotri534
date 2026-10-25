@@ -68,7 +68,7 @@
     <text x="36" y="162" font-size="14"><tspan fill="#484f58">location: </tspan><tspan fill="#39c5cf" font-weight="700">Lucknow, India</tspan></text>
     <text x="36" y="184" font-size="14"><tspan fill="#484f58">web:      </tspan><tspan fill="#58a6ff" font-weight="700">github.com/tarunagnihotri534</tspan></text>
     <!-- STATS_START -->
-    <text x="36" y="206" font-size="14"><tspan fill="#484f58">repos: </tspan><tspan fill="#e3b341" font-weight="700">62</tspan><tspan fill="#484f58">   followers: </tspan><tspan fill="#e3b341" font-weight="700">33</tspan><tspan fill="#484f58">   hireable: </tspan><tspan fill="#3fb950" font-weight="700">true</tspan></text>
+    <text x="36" y="206" font-size="14"><tspan fill="#484f58">repos: </tspan><tspan fill="#e3b341" font-weight="700">63</tspan><tspan fill="#484f58">   followers: </tspan><tspan fill="#e3b341" font-weight="700">33</tspan><tspan fill="#484f58">   hireable: </tspan><tspan fill="#3fb950" font-weight="700">true</tspan></text>
     <!-- STATS_END -->
   </g>
 
@@ -93,8 +93,8 @@
   <g opacity="0">
     <animate attributeName="opacity" begin="2.7s" dur="0.2s" values="0;1" fill="freeze"/>
     <!-- PROJECTS_LIST_START -->
-    <text x="36" y="262" font-size="14"><tspan fill="#e3b341">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">PROPTRACE-SDK/</tspan><tspan fill="#484f58">    TypeScript</tspan></text>
-    <text x="36" y="284" font-size="14"><tspan fill="#58a6ff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">EnvShield/</tspan><tspan fill="#484f58">        TypeScript</tspan></text>
+    <text x="36" y="262" font-size="14"><tspan fill="#e3b341">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">EnvShield/</tspan><tspan fill="#484f58">        TypeScript</tspan></text>
+    <text x="36" y="284" font-size="14"><tspan fill="#58a6ff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">Gitcord-LandingPage/</tspan><tspan fill="#484f58"> TypeScript</tspan></text>
     <text x="36" y="306" font-size="14"><tspan fill="#3fb950">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">HealDroid/</tspan><tspan fill="#484f58">        TypeScript</tspan></text>
     <text x="36" y="328" font-size="14"><tspan fill="#bc8cff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">rust/</tspan><tspan fill="#484f58">             Rust</tspan></text>
     <!-- PROJECTS_LIST_END -->
@@ -159,8 +159,8 @@
   <g opacity="0">
     <animate attributeName="opacity" begin="5.8s" dur="0.2s" values="0;1" fill="freeze"/>
     <!-- GIT_LOG_START -->
-    <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">59dff9</tspan><tspan fill="#e6edf3" font-weight="700">  docs: add system architecture, F...</tspan><tspan fill="#39c5cf">  (PROPTRACE-SDK)</tspan></text>
-    <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">9a8078</tspan><tspan fill="#e6edf3" font-weight="700">  Create README.md for EnvShield p...</tspan><tspan fill="#39c5cf">  (EnvShield)</tspan></text>
+    <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">9a8078</tspan><tspan fill="#e6edf3" font-weight="700">  Create README.md for EnvShield p...</tspan><tspan fill="#39c5cf">  (EnvShield)</tspan></text>
+    <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">1d1bb0</tspan><tspan fill="#e6edf3" font-weight="700">  ci: finalize pages deployment wo...</tspan><tspan fill="#39c5cf">  (Gitcord-LandingPage)</tspan></text>
     <text x="36" y="512" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">59ae28</tspan><tspan fill="#e6edf3" font-weight="700">  fix: prevent opengrep/IDE OOM cr...</tspan><tspan fill="#39c5cf">  (HealDroid)</tspan></text>
     <text x="36" y="534" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">5fb458</tspan><tspan fill="#e6edf3" font-weight="700">  Add project README</tspan><tspan fill="#39c5cf">  (rust)</tspan></text>
     <!-- GIT_LOG_END -->
