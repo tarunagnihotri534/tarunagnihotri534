@@ -160,7 +160,7 @@
     <animate attributeName="opacity" begin="5.8s" dur="0.2s" values="0;1" fill="freeze"/>
     <!-- GIT_LOG_START -->
     <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">9a8078</tspan><tspan fill="#e6edf3" font-weight="700">  Create README.md for EnvShield p...</tspan><tspan fill="#39c5cf">  (EnvShield)</tspan></text>
-    <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">1d1bb0</tspan><tspan fill="#e6edf3" font-weight="700">  ci: finalize pages deployment wo...</tspan><tspan fill="#39c5cf">  (Gitcord-LandingPage)</tspan></text>
+    <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">43a093</tspan><tspan fill="#e6edf3" font-weight="700">  feat(perf): optimize bundle, com...</tspan><tspan fill="#39c5cf">  (Gitcord-LandingPage)</tspan></text>
     <text x="36" y="512" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">59ae28</tspan><tspan fill="#e6edf3" font-weight="700">  fix: prevent opengrep/IDE OOM cr...</tspan><tspan fill="#39c5cf">  (HealDroid)</tspan></text>
     <text x="36" y="534" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">5fb458</tspan><tspan fill="#e6edf3" font-weight="700">  Add project README</tspan><tspan fill="#39c5cf">  (rust)</tspan></text>
     <!-- GIT_LOG_END -->
