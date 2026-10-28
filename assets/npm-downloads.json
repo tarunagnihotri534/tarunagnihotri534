@@ -3,20 +3,20 @@
   "label": "npm downloads",
   "message": "2.1k",
   "color": "CB3837",
-  "totalDownloads": 2111,
+  "totalDownloads": 2121,
   "packagesPublished": 5,
   "packages": [
     {
       "name": "@tarunagnihotri534/jennie",
       "version": "1.1.1",
       "description": "The Autonomous AI Code Reviewer for Indie Devs & Teams",
-      "downloads": 512
+      "downloads": 515
     },
     {
       "name": "loom-design-system-tokens",
       "version": "0.1.0",
       "description": "Design tokens for the Loom design system with compile-time 3-tier layering and WCAG AA contrast validation",
-      "downloads": 451
+      "downloads": 457
     },
     {
       "name": "loom-design-system",
@@ -28,7 +28,7 @@
       "name": "loom-design-system-react",
       "version": "0.1.0",
       "description": "Accessible React UI components built strictly with Loom design tokens",
-      "downloads": 377
+      "downloads": 378
     },
     {
       "name": "cogito-cli",
@@ -39,10 +39,10 @@
   ],
   "breakdown": {
     "cogito-cli": 359,
-    "@tarunagnihotri534/jennie": 512,
+    "@tarunagnihotri534/jennie": 515,
     "loom-design-system": 412,
-    "loom-design-system-tokens": 451,
-    "loom-design-system-react": 377
+    "loom-design-system-tokens": 457,
+    "loom-design-system-react": 378
   },
-  "updatedAt": "2026-10-28T03:22:56.736Z"
+  "updatedAt": "2026-10-28T17:44:43.395Z"
 }
