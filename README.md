@@ -18,7 +18,7 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
   <a href="https://www.linkedin.com/in/tarun-agnihotri69"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:tarunagnihotri534@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://tarun69-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/npm%20downloads-2.1k-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" /></a>&nbsp;
+  <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/npm%20downloads-2.2k-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" /></a>&nbsp;
   <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/Packages%20Published-5-0284c7?style=flat-square&logo=npm&logoColor=white" alt="Packages Published" /></a>
 </p>
 
@@ -82,7 +82,7 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
 
 <p align="center">
   <a href="https://www.npmjs.com/~tarunagnihotri534" target="_blank">
-    <img src="https://img.shields.io/badge/Total%20NPM%20Downloads-2.1k%2B-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Total NPM Downloads" />
+    <img src="https://img.shields.io/badge/Total%20NPM%20Downloads-2.2k%2B-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Total NPM Downloads" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.npmjs.com/~tarunagnihotri534" target="_blank">
