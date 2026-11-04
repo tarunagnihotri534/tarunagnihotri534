@@ -3,7 +3,7 @@
   "label": "npm downloads",
   "message": "2.2k",
   "color": "CB3837",
-  "totalDownloads": 2216,
+  "totalDownloads": 2218,
   "packagesPublished": 5,
   "packages": [
     {
@@ -34,15 +34,15 @@
       "name": "cogito-cli",
       "version": "0.1.2",
       "description": "Institutional memory for your codebase. Cogito captures architectural decisions and surfaces them automatically when relevant files are edited.",
-      "downloads": 377
+      "downloads": 379
     }
   ],
   "breakdown": {
-    "cogito-cli": 377,
+    "cogito-cli": 379,
     "@tarunagnihotri534/jennie": 527,
     "loom-design-system": 423,
     "loom-design-system-tokens": 500,
     "loom-design-system-react": 389
   },
-  "updatedAt": "2026-11-04T04:14:51.660Z"
+  "updatedAt": "2026-11-04T19:11:23.050Z"
 }
