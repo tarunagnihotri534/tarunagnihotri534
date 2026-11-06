@@ -3,7 +3,7 @@
   "label": "npm downloads",
   "message": "2.2k",
   "color": "CB3837",
-  "totalDownloads": 2222,
+  "totalDownloads": 2229,
   "packagesPublished": 5,
   "packages": [
     {
@@ -16,7 +16,7 @@
       "name": "loom-design-system-tokens",
       "version": "0.1.0",
       "description": "Design tokens for the Loom design system with compile-time 3-tier layering and WCAG AA contrast validation",
-      "downloads": 500
+      "downloads": 501
     },
     {
       "name": "loom-design-system",
@@ -34,15 +34,15 @@
       "name": "cogito-cli",
       "version": "0.1.2",
       "description": "Institutional memory for your codebase. Cogito captures architectural decisions and surfaces them automatically when relevant files are edited.",
-      "downloads": 379
+      "downloads": 385
     }
   ],
   "breakdown": {
-    "cogito-cli": 379,
+    "cogito-cli": 385,
     "@tarunagnihotri534/jennie": 531,
     "loom-design-system": 423,
-    "loom-design-system-tokens": 500,
+    "loom-design-system-tokens": 501,
     "loom-design-system-react": 389
   },
-  "updatedAt": "2026-11-06T04:31:26.873Z"
+  "updatedAt": "2026-11-06T18:44:17.009Z"
 }
