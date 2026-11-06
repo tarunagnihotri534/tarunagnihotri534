@@ -3,14 +3,14 @@
   "label": "npm downloads",
   "message": "2.2k",
   "color": "CB3837",
-  "totalDownloads": 2218,
+  "totalDownloads": 2222,
   "packagesPublished": 5,
   "packages": [
     {
       "name": "@tarunagnihotri534/jennie",
       "version": "1.1.1",
       "description": "The Autonomous AI Code Reviewer for Indie Devs & Teams",
-      "downloads": 527
+      "downloads": 531
     },
     {
       "name": "loom-design-system-tokens",
@@ -39,10 +39,10 @@
   ],
   "breakdown": {
     "cogito-cli": 379,
-    "@tarunagnihotri534/jennie": 527,
+    "@tarunagnihotri534/jennie": 531,
     "loom-design-system": 423,
     "loom-design-system-tokens": 500,
     "loom-design-system-react": 389
   },
-  "updatedAt": "2026-11-05T19:17:15.754Z"
+  "updatedAt": "2026-11-06T04:31:26.873Z"
 }
