@@ -3,20 +3,20 @@
   "label": "npm downloads",
   "message": "2.3k",
   "color": "CB3837",
-  "totalDownloads": 2251,
+  "totalDownloads": 2258,
   "packagesPublished": 5,
   "packages": [
     {
       "name": "@tarunagnihotri534/jennie",
       "version": "1.1.1",
       "description": "The Autonomous AI Code Reviewer for Indie Devs & Teams",
-      "downloads": 535
+      "downloads": 536
     },
     {
       "name": "loom-design-system-tokens",
       "version": "0.1.0",
       "description": "Design tokens for the Loom design system with compile-time 3-tier layering and WCAG AA contrast validation",
-      "downloads": 506
+      "downloads": 507
     },
     {
       "name": "loom-design-system",
@@ -28,21 +28,21 @@
       "name": "loom-design-system-react",
       "version": "0.1.0",
       "description": "Accessible React UI components built strictly with Loom design tokens",
-      "downloads": 395
+      "downloads": 396
     },
     {
       "name": "cogito-cli",
       "version": "0.1.2",
       "description": "Institutional memory for your codebase. Cogito captures architectural decisions and surfaces them automatically when relevant files are edited.",
-      "downloads": 389
+      "downloads": 393
     }
   ],
   "breakdown": {
-    "cogito-cli": 389,
-    "@tarunagnihotri534/jennie": 535,
+    "cogito-cli": 393,
+    "@tarunagnihotri534/jennie": 536,
     "loom-design-system": 426,
-    "loom-design-system-tokens": 506,
-    "loom-design-system-react": 395
+    "loom-design-system-tokens": 507,
+    "loom-design-system-react": 396
   },
-  "updatedAt": "2026-11-09T03:55:21.965Z"
+  "updatedAt": "2026-11-09T21:48:31.039Z"
 }
