@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "label": "npm downloads",
-  "message": "2.3k",
+  "message": "2.4k",
   "color": "CB3837",
-  "totalDownloads": 2347,
+  "totalDownloads": 2351,
   "packagesPublished": 5,
   "packages": [
     {
@@ -22,7 +22,7 @@
       "name": "loom-design-system",
       "version": "0.1.0",
       "description": "Unified Loom Design System: tokens, CSS variables, and accessible React UI components",
-      "downloads": 449
+      "downloads": 451
     },
     {
       "name": "loom-design-system-react",
@@ -34,15 +34,15 @@
       "name": "cogito-cli",
       "version": "0.1.2",
       "description": "Institutional memory for your codebase. Cogito captures architectural decisions and surfaces them automatically when relevant files are edited.",
-      "downloads": 407
+      "downloads": 409
     }
   ],
   "breakdown": {
-    "cogito-cli": 407,
+    "cogito-cli": 409,
     "@tarunagnihotri534/jennie": 544,
-    "loom-design-system": 449,
+    "loom-design-system": 451,
     "loom-design-system-tokens": 531,
     "loom-design-system-react": 416
   },
-  "updatedAt": "2026-11-15T04:06:55.850Z"
+  "updatedAt": "2026-11-15T18:19:23.845Z"
 }
