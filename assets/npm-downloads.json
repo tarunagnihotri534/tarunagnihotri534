@@ -3,7 +3,7 @@
   "label": "npm downloads",
   "message": "2.4k",
   "color": "CB3837",
-  "totalDownloads": 2404,
+  "totalDownloads": 2405,
   "packagesPublished": 5,
   "packages": [
     {
@@ -16,7 +16,7 @@
       "name": "loom-design-system-tokens",
       "version": "0.1.0",
       "description": "Design tokens for the Loom design system with compile-time 3-tier layering and WCAG AA contrast validation",
-      "downloads": 543
+      "downloads": 544
     },
     {
       "name": "loom-design-system",
@@ -41,8 +41,8 @@
     "cogito-cli": 415,
     "@tarunagnihotri534/jennie": 553,
     "loom-design-system": 463,
-    "loom-design-system-tokens": 543,
+    "loom-design-system-tokens": 544,
     "loom-design-system-react": 430
   },
-  "updatedAt": "2026-11-20T05:07:42.405Z"
+  "updatedAt": "2026-11-20T19:28:55.237Z"
 }
