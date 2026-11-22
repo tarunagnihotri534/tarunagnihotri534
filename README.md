@@ -20,8 +20,12 @@ Interested in Open Source — especially bug hunting with ESLint, CodeQL, and Ru
 
 <br>
 
+**A better algorithm beats faster hardware.**
+
+<br>
+
 <p align="left">
-  <strong>i love code</strong>&nbsp;&nbsp;<img src="cat-typing.gif" height="55" align="middle" />&nbsp;&nbsp;&nbsp;&nbsp;<strong>and play games</strong>&nbsp;&nbsp;<img src="Video%20Games%20Gamer%20GIF.gif" height="55" align="middle" />
+  <strong>i love code</strong>&nbsp;&nbsp;<img src="cat-typing.gif" height="95" align="middle" />&nbsp;&nbsp;&nbsp;&nbsp;<strong>and play games</strong>&nbsp;&nbsp;<img src="Video%20Games%20Gamer%20GIF.gif" height="95" align="middle" />
 </p>
 
 <br>
