@@ -325,7 +325,7 @@ async function main() {
 
       // Update top row npm badge (downloads button only)
       const topBadgesRegex = /<a\s+href="https:\/\/www\.npmjs\.com\/[^"]*">\s*<img\s+src="https:\/\/img\.shields\.io\/[^"]*"[^>]*alt="[^"]*npm\s*[Dd]ownloads"[^>]*\/>\s*<\/a>(\s*&nbsp;\s*<a\s+href="https:\/\/www\.npmjs\.com\/[^"]*">\s*<img\s+src="https:\/\/img\.shields\.io\/[^"]*"[^>]*alt="[^"]*Packages\s+Published"[^>]*\/>\s*<\/a>)?/;
-      const newTopBadge = `<a href="https://www.npmjs.com/~${USERNAME}"><img src="https://img.shields.io/badge/npm%20downloads-${npmStats.formatted}-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" /></a>`;
+      const newTopBadge = `<a href="https://www.npmjs.com/~${USERNAME}"><img src="https://img.shields.io/badge/npm%20downloads-${npmStats.formatted}-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" align="center" /></a>`;
 
       if (topBadgesRegex.test(readmeContent)) {
         readmeContent = readmeContent.replace(topBadgesRegex, newTopBadge);

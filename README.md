@@ -14,8 +14,6 @@
 
 <br>
 
-# Tarun Kumar Agnihotri
-
 B.Tech CSE, [Chandigarh University](https://www.cuchd.in/) (Class of 2029) · Lucknow, India
 
 Interested in Open Source — especially bug hunting with ESLint, CodeQL, and Ruff.
@@ -24,10 +22,6 @@ Interested in Open Source — especially bug hunting with ESLint, CodeQL, and Ru
 
 <p align="left">
   <strong>i love code</strong>&nbsp;&nbsp;<img src="cat-typing.gif" height="55" align="middle" />&nbsp;&nbsp;&nbsp;&nbsp;<strong>and play games</strong>&nbsp;&nbsp;<img src="Video%20Games%20Gamer%20GIF.gif" height="55" align="middle" />
-</p>
-
-<p align="left">
-  <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/npm%20downloads-2.4k-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" /></a>
 </p>
 
 <br>
@@ -87,7 +81,7 @@ Interested in Open Source — especially bug hunting with ESLint, CodeQL, and Ru
 **[RouteLens](https://github.com/tarunagnihotri534/RouteLens)** — static analysis auditing tool for routing structures across React and Next.js applications. Scans framework route hierarchies and validates internal navigation targets statically to prevent routing discrepancies in production.<br>
 `TypeScript` · `React` · `Next.js` · `ts-morph` · `Static Analysis` · `CLI`
 
-### Packages
+### Packages &nbsp; <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/npm%20downloads-2.4k-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" align="center" /></a>
 
 - **[jennie](https://www.npmjs.com/package/@tarunagnihotri534/jennie)** · The Autonomous AI Code Reviewer for Indie Devs & Teams · `npm i -g @tarunagnihotri534/jennie`
 - **[cogito-cli](https://www.npmjs.com/package/cogito-cli)** · Institutional memory for your codebase: captures architectural decisions automatically · `npm i -g cogito-cli`
