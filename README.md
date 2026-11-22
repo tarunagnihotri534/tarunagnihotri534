@@ -66,17 +66,13 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
 <hr>
 <br>
 
-<h3 align="left">Packages</h3>
+### Packages
 
 - **[jennie](https://www.npmjs.com/package/@tarunagnihotri534/jennie)** · The Autonomous AI Code Reviewer for Indie Devs & Teams · `npm i -g @tarunagnihotri534/jennie`
 - **[cogito-cli](https://www.npmjs.com/package/cogito-cli)** · Institutional memory for your codebase: captures architectural decisions automatically · `npm i -g cogito-cli`
 - **[loom-design-system-tokens](https://www.npmjs.com/package/loom-design-system-tokens)** · Design tokens for the Loom design system with compile-time 3-tier layering and WCAG AA contrast validation · `npm i loom-design-system-tokens`
 
-<br>
-<hr>
-<br>
-
-<h3 align="left">Open Source</h3>
+### Open Source
 
 - **[AOSSIE](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot/pull/174)** · Merged bugfix · Pass params in GitHubRestAdapter permission checks
 - **[ChainVoice](https://github.com/StabilityNexus/Chainvoice/pull/264)** · Merged security hardening · Raise OpenSSF Scorecard, CodeQL, pinned Actions & test policy
