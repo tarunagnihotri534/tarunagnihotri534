@@ -62,6 +62,20 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
 
 <br clear="both">
 
+<br>
+<hr>
+<br>
+
+<h3 align="left">Packages</h3>
+
+- **[jennie](https://www.npmjs.com/package/@tarunagnihotri534/jennie)** · The Autonomous AI Code Reviewer for Indie Devs & Teams · `npm i -g @tarunagnihotri534/jennie`
+- **[cogito-cli](https://www.npmjs.com/package/cogito-cli)** · Institutional memory for your codebase: captures architectural decisions automatically · `npm i -g cogito-cli`
+- **[loom-design-system-tokens](https://www.npmjs.com/package/loom-design-system-tokens)** · Design tokens for the Loom design system with compile-time 3-tier layering and WCAG AA contrast validation · `npm i loom-design-system-tokens`
+
+<br>
+<hr>
+<br>
+
 <h3 align="left">Connect with me: <img src="./assets/Port_HandShake.gif" width="35" align="middle"></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tarun-agnihotri69" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-agnihotri69" height="32" width="32" /></a>&nbsp;&nbsp;
