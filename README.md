@@ -76,6 +76,19 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
 <hr>
 <br>
 
+<h3 align="left">Open Source</h3>
+
+- **[AOSSIE](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot/pull/174)** · Merged bugfix · Pass params in GitHubRestAdapter permission checks
+- **[ChainVoice](https://github.com/StabilityNexus/Chainvoice/pull/264)** · Merged security hardening · Raise OpenSSF Scorecard, CodeQL, pinned Actions & test policy
+- **[json-schema](https://github.com/hyperjump-io/json-language-server/pull/152)** · Merged bugfix · Clear diagnostics when a document is closed
+- **[Merged PRs](https://github.com/search?q=author%3Atarunagnihotri534+is%3Apr+is%3Amerged+-user%3Atarunagnihotri534&type=pullrequests)** across external repos · AOSSIE, StabilityNexus, hyperjump-io & more
+- **[76+ public repos](https://github.com/tarunagnihotri534?tab=repositories)** · AI Agents, TypeScript, Python, Rust & Web3
+- ***Open to internships, freelance & collaborations***
+
+<br>
+<hr>
+<br>
+
 <h3 align="left">Connect with me: <img src="./assets/Port_HandShake.gif" width="35" align="middle"></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tarun-agnihotri69" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-agnihotri69" height="32" width="32" /></a>&nbsp;&nbsp;
