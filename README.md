@@ -8,18 +8,16 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
 
 <br>
 
-**i love code**&nbsp;&nbsp;<img src="cat-typing.gif" height="80" align="center" />&nbsp;&nbsp;**and play games**&nbsp;&nbsp;<img src="Video%20Games%20Gamer%20GIF.gif" height="95" align="center" />
+<p align="left">
+  <strong>i love code</strong>&nbsp;&nbsp;<img src="cat-typing.gif" height="55" align="middle" />&nbsp;&nbsp;&nbsp;&nbsp;<strong>and play games</strong>&nbsp;&nbsp;<img src="Video%20Games%20Gamer%20GIF.gif" height="55" align="middle" />
+</p>
 
-<br>
-<br>
-
-<p align="center">
+<p align="left">
   <a href="https://drive.google.com/file/d/1-p0qAzLxqjJqHCZBV876NgXArNWfyeSz/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/tarun-agnihotri69"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:tarunagnihotri534@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://tarun69-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/npm%20downloads-2.4k-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" /></a>&nbsp;
-  <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/Packages%20Published-5-0284c7?style=flat-square&logo=npm&logoColor=white" alt="Packages Published" /></a>
+  <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/npm%20downloads-2.4k-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" /></a>
 </p>
 
 <br>
@@ -28,7 +26,7 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
 
 <img align="right" src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif" width="350">
 
-<h3 align="left">Languages & Tools <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px"></h3>
+<h3 align="left">Languages & Tools <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px" align="middle"></h3>
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>
@@ -53,7 +51,7 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a>
+  <a href="https://docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/> </a>
@@ -62,59 +60,27 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="45" height="45"/> </a>
 </p>
 
-<br>
+<br clear="both">
 
-<h3 align="left">Connect with me: <img align="center" src="./assets/Port_HandShake.gif" width="45"></h3>
+<h3 align="left">Connect with me: <img src="./assets/Port_HandShake.gif" width="35" align="middle"></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tarun-agnihotri69" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-agnihotri69" height="30" width="40" /></a>
-<a href="mailto:tarunagnihotri534@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/></a>
-<a href="https://www.youtube.com/@Taruunn_69" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Taruunn_69" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tarun-agnihotri69" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-agnihotri69" height="32" width="32" /></a>&nbsp;&nbsp;
+  <a href="mailto:tarunagnihotri534@gmail.com"><img align="middle" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="32" width="32"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Taruunn_69" target="_blank"><img align="middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Taruunn_69" height="32" width="32" /></a>
 </p>
 
 <br>
 <hr>
 <br>
 
-<!-- NPM_SECTION_START -->
-<div align="center">
+<h3 align="left">📊 GitHub Statistics & Metrics</h3>
 
-### 📦 Published NPM Packages & Downloads
-
-<p align="center">
-  <a href="https://www.npmjs.com/~tarunagnihotri534" target="_blank">
-    <img src="https://img.shields.io/badge/Total%20NPM%20Downloads-2.4k%2B-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Total NPM Downloads" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.npmjs.com/~tarunagnihotri534" target="_blank">
-    <img src="https://img.shields.io/badge/Packages%20Published-5-0284c7?style=for-the-badge&logo=npm&logoColor=white" alt="Published Packages" />
-  </a>
-</p>
-
-| Package | Description | Latest Version | Total Downloads |
-| :--- | :--- | :---: | :---: |
-| [**`@tarunagnihotri534/jennie`**](https://www.npmjs.com/package/@tarunagnihotri534/jennie) | The Autonomous AI Code Reviewer for Indie Devs & Teams | [![version](https://img.shields.io/npm/v/@tarunagnihotri534/jennie?color=2563eb&style=flat-square&logo=npm)](https://www.npmjs.com/package/@tarunagnihotri534/jennie) | [![downloads](https://img.shields.io/npm/dt/@tarunagnihotri534/jennie?color=10b981&style=flat-square&logo=npm&label=downloads)](https://www.npmjs.com/package/@tarunagnihotri534/jennie) |
-| [**`loom-design-system-tokens`**](https://www.npmjs.com/package/loom-design-system-tokens) | Design tokens for the Loom design system with compile-time 3-tier layering and WCAG AA contrast validation | [![version](https://img.shields.io/npm/v/loom-design-system-tokens?color=2563eb&style=flat-square&logo=npm)](https://www.npmjs.com/package/loom-design-system-tokens) | [![downloads](https://img.shields.io/npm/dt/loom-design-system-tokens?color=10b981&style=flat-square&logo=npm&label=downloads)](https://www.npmjs.com/package/loom-design-system-tokens) |
-| [**`loom-design-system`**](https://www.npmjs.com/package/loom-design-system) | Unified Loom Design System: tokens, CSS variables, and accessible React UI components | [![version](https://img.shields.io/npm/v/loom-design-system?color=2563eb&style=flat-square&logo=npm)](https://www.npmjs.com/package/loom-design-system) | [![downloads](https://img.shields.io/npm/dt/loom-design-system?color=10b981&style=flat-square&logo=npm&label=downloads)](https://www.npmjs.com/package/loom-design-system) |
-| [**`loom-design-system-react`**](https://www.npmjs.com/package/loom-design-system-react) | Accessible React UI components built strictly with Loom design tokens | [![version](https://img.shields.io/npm/v/loom-design-system-react?color=2563eb&style=flat-square&logo=npm)](https://www.npmjs.com/package/loom-design-system-react) | [![downloads](https://img.shields.io/npm/dt/loom-design-system-react?color=10b981&style=flat-square&logo=npm&label=downloads)](https://www.npmjs.com/package/loom-design-system-react) |
-| [**`cogito-cli`**](https://www.npmjs.com/package/cogito-cli) | Institutional memory for your codebase. Cogito captures architectural decisions and surfaces them automatic... | [![version](https://img.shields.io/npm/v/cogito-cli?color=2563eb&style=flat-square&logo=npm)](https://www.npmjs.com/package/cogito-cli) | [![downloads](https://img.shields.io/npm/dt/cogito-cli?color=10b981&style=flat-square&logo=npm&label=downloads)](https://www.npmjs.com/package/cogito-cli) |
-
-</div>
-<!-- NPM_SECTION_END -->
-
-<br>
-<hr>
-<br>
-
-### 📊 GitHub Statistics & Metrics
-
-<div align="center">
+<p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=tarunagnihotri534&show_icons=true&theme=tokyonight&count_private=true" height="180px" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tarunagnihotri534&layout=compact&theme=tokyonight" height="180px" alt="Top Languages" />
-</div>
+</p>
 
-<br />
-
-<div align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunagnihotri534&theme=tokyonight" width="49%" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/tarunagnihotri534/tarunagnihotri534/output/github-contribution-grid-snake.svg" width="49%" alt="Snake Game" />
-</div>
+</p>

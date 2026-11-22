@@ -323,27 +323,20 @@ async function main() {
         console.log('Successfully updated README.md with cache-buster query string.');
       }
 
-      // Update top row npm badges
+      // Update top row npm badge (downloads button only)
       const topBadgesRegex = /<a\s+href="https:\/\/www\.npmjs\.com\/[^"]*">\s*<img\s+src="https:\/\/img\.shields\.io\/[^"]*"[^>]*alt="[^"]*npm\s*[Dd]ownloads"[^>]*\/>\s*<\/a>(\s*&nbsp;\s*<a\s+href="https:\/\/www\.npmjs\.com\/[^"]*">\s*<img\s+src="https:\/\/img\.shields\.io\/[^"]*"[^>]*alt="[^"]*Packages\s+Published"[^>]*\/>\s*<\/a>)?/;
-      const newTopBadges = `<a href="https://www.npmjs.com/~${USERNAME}"><img src="https://img.shields.io/badge/npm%20downloads-${npmStats.formatted}-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" /></a>&nbsp;\n  <a href="https://www.npmjs.com/~${USERNAME}"><img src="https://img.shields.io/badge/Packages%20Published-${npmStats.count}-0284c7?style=flat-square&logo=npm&logoColor=white" alt="Packages Published" /></a>`;
+      const newTopBadge = `<a href="https://www.npmjs.com/~${USERNAME}"><img src="https://img.shields.io/badge/npm%20downloads-${npmStats.formatted}-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" /></a>`;
 
       if (topBadgesRegex.test(readmeContent)) {
-        readmeContent = readmeContent.replace(topBadgesRegex, newTopBadges);
-        console.log(`Successfully updated top npm badges (downloads: ${npmStats.formatted}, packages: ${npmStats.count}).`);
+        readmeContent = readmeContent.replace(topBadgesRegex, newTopBadge);
+        console.log(`Successfully updated top npm badge (downloads: ${npmStats.formatted}).`);
       }
 
-      // Update or insert full NPM Section
-      const npmSectionContent = generateNpmSection(USERNAME, npmStats);
-      const npmSectionRegex = /<!-- NPM_SECTION_START -->[\s\S]*?<!-- NPM_SECTION_END -->/;
+      // Ensure NPM packages breakdown table section is removed
+      const npmSectionRegex = /<!-- NPM_SECTION_START -->[\s\S]*?<!-- NPM_SECTION_END -->\s*(<br>\s*<hr>\s*<br>\s*)?/;
       if (npmSectionRegex.test(readmeContent)) {
-        readmeContent = readmeContent.replace(npmSectionRegex, npmSectionContent);
-        console.log('Successfully updated NPM packages section in README.md.');
-      } else {
-        const statsHeaderRegex = /(### 📊 GitHub Statistics & Metrics)/;
-        if (statsHeaderRegex.test(readmeContent)) {
-          readmeContent = readmeContent.replace(statsHeaderRegex, `${npmSectionContent}\n\n<br>\n<hr>\n<br>\n\n$1`);
-          console.log('Successfully inserted NPM packages section before GitHub stats.');
-        }
+        readmeContent = readmeContent.replace(npmSectionRegex, '');
+        console.log('Cleaned up NPM packages breakdown section from README.md.');
       }
 
       fs.writeFileSync(readmePath, readmeContent, 'utf8');
