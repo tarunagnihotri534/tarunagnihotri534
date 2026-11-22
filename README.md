@@ -1,3 +1,19 @@
+<table width="100%">
+<tr>
+<td align="left">
+<strong>Tarun Kumar Agnihotri · Full Stack AI Engineer.</strong> Building what others put on their roadmap.
+</td>
+<td align="right">
+<a href="https://tarun69-portfolio.web.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/tarun-agnihotri69">LinkedIn</a> ·
+<a href="https://drive.google.com/file/d/1-p0qAzLxqjJqHCZBV876NgXArNWfyeSz/view?usp=sharing">Resume</a> ·
+<a href="mailto:tarunagnihotri534@gmail.com">Email</a>
+</td>
+</tr>
+</table>
+
+<br>
+
 # Tarun Kumar Agnihotri
 
 B.Tech CSE, [Chandigarh University](https://www.cuchd.in/) (Class of 2029) · Lucknow, India
@@ -13,10 +29,6 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
 </p>
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1-p0qAzLxqjJqHCZBV876NgXArNWfyeSz/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/tarun-agnihotri69"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:tarunagnihotri534@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://tarun69-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/npm%20downloads-2.4k-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" /></a>
 </p>
 
