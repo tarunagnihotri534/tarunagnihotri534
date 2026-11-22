@@ -66,6 +66,17 @@ I contribute where I can, to [hyperjump-io/json-schema](https://github.com/hyper
 <hr>
 <br>
 
+### Selected Work
+
+**[HealDroid](https://github.com/tarunagnihotri534/HealDroid)** — advanced static application security testing (SAST) platform engineered for Android APKs. Combines binary manifest parsing, high-throughput JADX decompilation, multi-pattern AST rule engines, and weighted OWASP risk scoring with instant developer remediation snippets. [[live](https://heal-droid.onrender.com)]<br>
+`TypeScript` · `Next.js` · `Python` · `JADX` · `OWASP` · `Tailwind CSS`
+
+**[Cogito](https://github.com/tarunagnihotri534/Cogito)** — institutional memory and architectural decision intelligence for codebases. Captures technical decisions and constraints, automatically surfacing context to developers and AI coding agents whenever affected files are edited. Published on npm.<br>
+`TypeScript` · `Node.js` · `CLI` · `AST Analysis` · `MCP` · `npm`
+
+**[RouteLens](https://github.com/tarunagnihotri534/RouteLens)** — static analysis auditing tool for routing structures across React and Next.js applications. Scans framework route hierarchies and validates internal navigation targets statically to prevent routing discrepancies in production.<br>
+`TypeScript` · `React` · `Next.js` · `ts-morph` · `Static Analysis` · `CLI`
+
 ### Packages
 
 - **[jennie](https://www.npmjs.com/package/@tarunagnihotri534/jennie)** · The Autonomous AI Code Reviewer for Indie Devs & Teams · `npm i -g @tarunagnihotri534/jennie`
