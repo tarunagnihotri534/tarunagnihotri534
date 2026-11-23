@@ -88,7 +88,7 @@
 ### Open Source
 
 - **[AOSSIE](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot/pull/174)** · Merged bugfix · Pass params in GitHubRestAdapter permission checks
-- **[ChainVoice](https://github.com/StabilityNexus/Chainvoice/pull/264)** · Merged security hardening · Raise OpenSSF Scorecard, CodeQL, pinned Actions & test policy
+- **[StabilityNexus](https://github.com/StabilityNexus/Chainvoice/pull/264)** · Merged security hardening · Raise OpenSSF Scorecard, CodeQL, pinned Actions & test policy
 - **[json-schema](https://github.com/hyperjump-io/json-language-server/pull/152)** · Merged bugfix · Clear diagnostics when a document is closed
 - **[Konflux CI](https://github.com/konflux-ci/konflux-ui/pull/1573)** · Merged docs · Document tab container data-fetching responsibilities
 - **[sugar-org](https://github.com/sugar-org/sugar/pull/211)** · Merged docs bugfix · Resolve missing pkg_resources in docs build
