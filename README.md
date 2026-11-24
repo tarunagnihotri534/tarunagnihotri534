@@ -86,7 +86,7 @@
 - **[loom-design-system-tokens](https://www.npmjs.com/package/loom-design-system-tokens)** · Design tokens for the Loom design system with compile-time 3-tier layering and WCAG AA contrast validation · `npm i loom-design-system-tokens`
 
 ### Open Source
-
+- **[Microsoft](https://github.com/microsoft/kognition/pull/27)** · Merged security bugfix · estrict client environment injection and protect security settings
 - **[AOSSIE](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot/pull/174)** · Merged bugfix · Pass params in GitHubRestAdapter permission checks
 - **[StabilityNexus](https://github.com/StabilityNexus/Chainvoice/pull/264)** · Merged security hardening · Raise OpenSSF Scorecard, CodeQL, pinned Actions & test policy
 - **[json-schema](https://github.com/hyperjump-io/json-language-server/pull/152)** · Merged bugfix · Clear diagnostics when a document is closed
