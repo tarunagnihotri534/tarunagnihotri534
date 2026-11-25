@@ -3,14 +3,14 @@
   "label": "npm downloads",
   "message": "2.4k",
   "color": "CB3837",
-  "totalDownloads": 2441,
+  "totalDownloads": 2445,
   "packagesPublished": 5,
   "packages": [
     {
       "name": "@tarunagnihotri534/jennie",
       "version": "1.1.1",
       "description": "The Autonomous AI Code Reviewer for Indie Devs & Teams",
-      "downloads": 562
+      "downloads": 564
     },
     {
       "name": "loom-design-system-tokens",
@@ -34,15 +34,15 @@
       "name": "cogito-cli",
       "version": "0.1.2",
       "description": "Institutional memory for your codebase. Cogito captures architectural decisions and surfaces them automatically when relevant files are edited.",
-      "downloads": 422
+      "downloads": 424
     }
   ],
   "breakdown": {
-    "cogito-cli": 422,
-    "@tarunagnihotri534/jennie": 562,
+    "cogito-cli": 424,
+    "@tarunagnihotri534/jennie": 564,
     "loom-design-system": 468,
     "loom-design-system-tokens": 552,
     "loom-design-system-react": 437
   },
-  "updatedAt": "2026-11-25T06:22:06.474Z"
+  "updatedAt": "2026-11-25T20:54:42.244Z"
 }
