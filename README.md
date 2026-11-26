@@ -79,7 +79,7 @@
 **[RouteLens](https://github.com/tarunagnihotri534/RouteLens)** — static analysis auditing tool for routing structures across React and Next.js applications. Scans framework route hierarchies and validates internal navigation targets statically to prevent routing discrepancies in production.<br>
 `TypeScript` · `React` · `Next.js` · `ts-morph` · `Static Analysis` · `CLI`
 
-### Packages &nbsp; <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/npm%20downloads-2.4k-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" align="center" /></a>
+### Packages &nbsp; <a href="https://www.npmjs.com/~tarunagnihotri534"><img src="https://img.shields.io/badge/npm%20downloads-2.5k-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Total npm Downloads" align="center" /></a>
 
 - **[jennie](https://www.npmjs.com/package/@tarunagnihotri534/jennie)** · The Autonomous AI Code Reviewer for Indie Devs & Teams · `npm i -g @tarunagnihotri534/jennie`
 - **[cogito-cli](https://www.npmjs.com/package/cogito-cli)** · Institutional memory for your codebase: captures architectural decisions automatically · `npm i -g cogito-cli`
