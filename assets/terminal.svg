@@ -159,7 +159,7 @@
   <g opacity="0">
     <animate attributeName="opacity" begin="5.8s" dur="0.2s" values="0;1" fill="freeze"/>
     <!-- GIT_LOG_START -->
-    <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">127a5e</tspan><tspan fill="#e6edf3" font-weight="700">  Create README.md</tspan><tspan fill="#39c5cf">  (SystemArchitectGSoC-27)</tspan></text>
+    <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">822f49</tspan><tspan fill="#e6edf3" font-weight="700">  docs: add Chainvoice system arch...</tspan><tspan fill="#39c5cf">  (SystemArchitectGSoC-27)</tspan></text>
     <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">44d84c</tspan><tspan fill="#e6edf3" font-weight="700">  Merge pull request #4 from tarun...</tspan><tspan fill="#39c5cf">  (Gitcord-LandingPage)</tspan></text>
     <text x="36" y="512" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">59ae28</tspan><tspan fill="#e6edf3" font-weight="700">  fix: prevent opengrep/IDE OOM cr...</tspan><tspan fill="#39c5cf">  (HealDroid)</tspan></text>
     <text x="36" y="534" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">68817d</tspan><tspan fill="#e6edf3" font-weight="700">  Clean repo and update main.rs wi...</tspan><tspan fill="#39c5cf">  (rust)</tspan></text>
